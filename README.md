@@ -1,4 +1,4 @@
-## Hey! Lets do it
+## Lets do it
 
 My website : http://www.kevinten.com/
 
