@@ -1,6 +1,6 @@
 ## Lets do it
 
-My website : http://www.kevinten.com/
+Hi. I’m Kevin 🤗 🧑‍💻 👓 💻 ☕ 🍵 🍺 📚 🏝, My website : http://www.kevinten.com/
 
 Using Java/Scala/Python/Golang at work. 
 
