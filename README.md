@@ -6,8 +6,8 @@ My website : http://www.kevinten.com/
 
 My gitpage : https://kevinten10.github.io/
 
-Using Java/Scala/Python/Golang at work. 
+Using Java/Scala/Python/Golang at work.
 
-Research Stream and Reactive System. 
+Research Reactive system, RPC framework and Cloud Native.
 
 Follow up Artificial Intelligence & Big Data & Cloud.
