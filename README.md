@@ -1,13 +1,11 @@
 ## Lets do it
 
-Hi. I’m Kevin 🤗 🧑‍💻 👓 💻 ☕ 🍵 🍺 📚 🏝
+Hi. I’m Kevin Ten 🤗 🧑‍💻 👓 💻 ☕ 🍵 🍺 📚 🏝
 
-My website : http://www.kevinten.com/
+My website : http://www.kevinten.com/ / My gitpage : https://kevinten10.github.io/
 
-My gitpage : https://kevinten10.github.io/
+Using Java/Golang/Python/Scala at work.
 
-Using Java/Scala/Python/Golang at work.
+Research Reactive system, RPC framework and Multi runtime.
 
-Research Reactive system, RPC framework and Cloud Native.
-
-Follow up Artificial Intelligence & Big Data & Cloud.
+Follow up Artificial Intelligence & Big Data & Cloud Native.
