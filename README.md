@@ -6,4 +6,4 @@ My website : http://www.kevinten.com/ | My gitpage : https://kevinten10.github.i
 
 + Using java, golang, python, scala at work.
 + Research reactive-system, service-mesh and multi-runtime.
-+ Follow up blockchain & metaverse & ai.
++ Follow up metaverse & ai.
