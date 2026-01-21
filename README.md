@@ -1,10 +1,11 @@
-## Lets do it
+Hi, I’m Kevin Ten 🤗🧑‍💻
 
-Hi. I’m Kevin Ten 🤗 🧑‍💻 👓 💻 ☕ 🍵 🍺 📚 🏝
+Website: http://www.kevinten.com/ (503 — wallet timeout 😅)  
 
-My website : http://www.kevinten.com/ | My gitpage : https://kevinten10.github.io/
+GitHub Page: https://kevinten10.github.io/  
 
-+ Researching AI-Agent, MCP, MRM(multi-runtime with mcp).
-+ Using java, golang, python, scala at work.
-+ Designing software architecture.
-+ Coding reactive-system, service-mesh and multi-runtime.
+WeChat Public Account: **AIRider** — *"Riding on the edge between code and reality"*
+
+- Research: AI Agents · MCP · MRM (Multi-Runtime with MCP)
+- Stack: Java / Golang / Python / Scala
+- Focus: Software Architecture, Reactive Systems, Service Mesh, Multi-Runtime Platforms
