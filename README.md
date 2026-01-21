@@ -7,5 +7,4 @@ GitHub Page: https://kevinten10.github.io/
 WeChat Public Account: **AIRider** — *"Riding on the edge between code and reality"*
 
 - Research: AI Agents · MCP · MRM (Multi-Runtime with MCP)
-- Stack: Java / Golang / Python / Scala
 - Focus: Software Architecture, Reactive Systems, Service Mesh, Multi-Runtime Platforms
