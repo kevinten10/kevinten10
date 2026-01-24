@@ -1,10 +1,22 @@
-Hi, I’m Kevin Ten 🤗🧑‍💻
+Hi, I'm Kevin Ten 🤗🧑‍💻  
+Software Architect · AI-Native Developer · Multi-Runtime Explorer
 
-Website: http://www.kevinten.com/ (503 — wallet timeout 😅)  
+🌐 Website: http://www.kevinten.com (503 - wallet timeout😅)  
+🐙 GitHub Page: https://kevinten10.github.io/  
+📣 WeChat Public Account: AIRider — *Riding on the edge between code and reality*
 
-GitHub Page: https://kevinten10.github.io/  
+### 🔍 Research
+- AI Agents & Agentic Workflow
+- MCP (Model Context Protocol)
+- MRM — Multi-Runtime Architecture with MCP
 
-WeChat Public Account: **AIRider** — *"Riding on the edge between code and reality"*
+### 🧠 Focus
+- AI-assisted & AI-driven coding (Claude Code, Cursor, Agent-based Dev)
+- Software Architecture & Domain Modeling
+- Reactive Systems, Service Mesh
+- Multi-Runtime Platforms (JVM · Go · Python · Wasm · LLM Agents)
 
-- Research: AI Agents · MCP · MRM (Multi-Runtime with MCP)
-- Focus: Software Architecture, Reactive Systems, Service Mesh, Multi-Runtime Platforms
+### 🛠 Tech Stack
+Java · Go · Python · NodeJS · Kubernetes · Service Mesh · Multi-Runtime
+
+> Building systems where **humans design, agents execute, and runtimes collaborate**.
