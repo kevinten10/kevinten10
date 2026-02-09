@@ -18,9 +18,10 @@
 
 ## 🌟 开源贡献
 
-[![Dapr](https://img.shields.io/badge/Dapr-贡献者-0078D4?style=flat-square)](https://github.com/dapr)
-[![Layotto](https://img.shields.io/badge/Layotto-贡献者-5FB8B0?style=flat-square)](https://github.com/mosn/layotto)
-[![ReactiveGroup](https://img.shields.io/badge/ReactiveGroup-维护者-2F80ED?style=flat-square)](https://github.com/reactivegroup)
+[![Dapr](https://img.shields.io/badge/Dapr-Contributor-0078D4?style=flat-square)](https://github.com/dapr)
+[![Layotto](https://img.shields.io/badge/Layotto-Contributor-5FB8B0?style=flat-square)](https://github.com/mosn/layotto)
+[![Dubbo](https://img.shields.io/badge/Dubbo-Contributor-5FB8B0?style=flat-square)](https://github.com/apache/dubbo)
+[![ReactiveGroup](https://img.shields.io/badge/ReactiveGroup-Maintainer-2F80ED?style=flat-square)](https://github.com/reactivegroup)
 
 ### 代表项目
 
