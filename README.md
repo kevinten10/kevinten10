@@ -4,27 +4,13 @@
 
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=markdown)](README.md)
 
-**Software Architect · AI 应用工程 · Multi-Runtime**
+**软件架构师 · AI 应用工程 · 多运行时**
 
 专注云原生分布式系统、多运行时架构与 AI 应用工程实践。
 
 [![Website](https://img.shields.io/badge/Website-kevinten10.github.io-blue?style=for-the-badge)](https://kevinten10.github.io/)
-
 [![AI Tools](https://img.shields.io/badge/AI%20Tools-ai--tools-8B5CF6?style=for-the-badge)](https://ava-agent.github.io/ai-tools)
-
 [![WeChat](https://img.shields.io/badge/公众号-AIRider-07C160?style=for-the-badge&logo=wechat)](https://github.com/kevinten)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 数据统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinten&show_icons=true&theme=vue-dark&include_all_commits=true&hide_border=true&rank_icon=github&locale=cn)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinten&layout=compact&theme=vue-dark&hide_border=true)
 
 </div>
 
@@ -49,7 +35,7 @@
 
 ## 🌐 保持联络
 
-[![Website](https://img.shields.io/badge/Website-kevinten10.github.io-blue?style=for-the-badge)](https://kevinten10.github.io/)
+**✉️ Email**: `wshten@gmail.com`
 
 **💬 AI 架构 · 多 Agent 系统 · 软件演进**
 
