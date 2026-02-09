@@ -20,6 +20,7 @@ Focused on cloud-native distributed systems, multi-runtime architecture, and AI 
 
 [![Dapr](https://img.shields.io/badge/Dapr-Contributor-0078D4?style=flat-square)](https://github.com/dapr)
 [![Layotto](https://img.shields.io/badge/Layotto-Contributor-5FB8B0?style=flat-square)](https://github.com/mosn/layotto)
+[![Dubbo](https://img.shields.io/badge/Dubbo-Contributor-5FB8B0?style=flat-square)](https://github.com/apache/dubbo)
 [![ReactiveGroup](https://img.shields.io/badge/ReactiveGroup-Maintainer-2F80ED?style=flat-square)](https://github.com/reactivegroup)
 
 ### Featured Projects
