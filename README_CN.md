@@ -43,6 +43,8 @@
 
 **✉️ Website**: `https://kevinten10.github.io/`
 
+**✉️ AI usage**: `https://ava-agent.github.io/ai-tools`
+
 **💬 AI 架构 · 多 Agent 系统 · 软件演进**
 
 </div>
