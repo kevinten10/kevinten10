@@ -43,6 +43,8 @@ Focused on cloud-native distributed systems, multi-runtime architecture, and AI 
 
 **✉️ Website**: `https://kevinten10.github.io/`
 
+**✉️ AI usage**: `https://ava-agent.github.io/ai-tools`
+
 **💬 AI Architecture · Multi-Agent Systems · Software Development**
 
 </div>
