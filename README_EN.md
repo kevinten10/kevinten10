@@ -29,19 +29,22 @@ Focused on cloud-native distributed systems, multi-runtime architecture, and AI 
 
 | Project | Description | Web | Stars |
 |:---|:---|:---:|:---:|
-| [Trip Meta](https://github.com/trip-meta/TripMeta) | Metaverse VR tourism platform (Unity + PICO, Hackathon Finalist) | [🔗](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
-| [Trip Agent](https://github.com/ava-agent/trip-agent) | Multi-Agent intelligent travel planner (5 Agent协作 + Tauri桌面) | - | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-agent?style=social) |
-| [Trip AVA](https://github.com/ava-agent/trip-ava) | AI digital human travel guide (React + Doubao style, Hackathon Bronze) | - | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
-| [AI Tools](https://github.com/ava-agent/ai-tools) | AI development tools selection guide (30+ tools SWOT analysis) | [🔗](https://ava-agent.github.io/ai-tools/#/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
-| [PUA CLI](https://github.com/ava-agent/pua-cli) | Workplace role-play AI CLI (6 roles × 3 intensity levels) | [🔗](https://pua-cli.vercel.app) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/pua-cli?style=social) |
+| [Trip Meta](https://github.com/trip-meta/TripMeta) | AI-powered VR tourism platform, explore virtual attractions on PICO headset with intelligent guide (Hackathon Finalist) | [🔗](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
+| [Trip AVA](https://github.com/ava-agent/trip-ava) | AVA AI digital human travel guide, natural conversation + personalized travel advice (Hackathon Bronze) | - | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
+| [Trip Agent](https://github.com/ava-agent/trip-agent) | Multi-Agent intelligent travel planner, AI-generated personalized itineraries | [🔗](https://trip.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-agent?style=social) |
+| [ADV Agent](https://github.com/ava-agent/adv-agent) | ADV motorcycle riding route sharing community with AI-powered route recommendations | [🔗](https://adv.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/adv-agent?style=social) |
+| [Meeting Agent](https://github.com/ava-agent/meeting-agent) | All-in-one AI meeting planning platform, one-click agenda / speech / poster / gift recommendations | [🔗](https://meeting.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/meeting-agent?style=social) |
+| [Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval) | Curated Spring Festival projects + AI assistant (greetings / relative defense / greeting cards) | [🔗](https://spring.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten10/awesome-springfeistval?style=social) |
+| [AI Tools](https://github.com/ava-agent/ai-tools) | AI development tools selection guide, SWOT analysis & real-world data for 30+ IDE / LLM / plugin tools | [🔗](https://ava-agent.github.io/ai-tools/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
+| [PUA CLI](https://github.com/ava-agent/pua-cli) | A fun AI CLI tool that adds "flavor" to workplace conversations | [🔗](https://pua.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/pua-cli?style=social) |
 
 ### Classic Projects (Software Engineering)
 
 | Project | Description | Web | Stars |
 |:---|:---|:---:|:---:|
-| [VRML](https://github.com/project-vrml/vrml) | High-level abstract API library for application runtime | - | ![GitHub Repo stars](https://img.shields.io/github/stars/project-vrml/vrml?style=social) |
 | [Capa-Java](https://github.com/capa-cloud/capa-java) | Multi-runtime SDK for hybrid cloud (write once, run anywhere) | [🔗](https://capa-cloud.github.io/capa.io/) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-java?style=social) |
 | [Capa-BFF](https://github.com/capa-cloud/capa-bff) | Zero-cost BFF solution (Ctrip Hackathon Gold Award) | - | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-bff?style=social) |
+| [VRML](https://github.com/project-vrml/vrml) | High-level abstract API library for application runtime | - | ![GitHub Repo stars](https://img.shields.io/github/stars/project-vrml/vrml?style=social) |
 | [Reactive Group](https://github.com/reactivegroup/docs) | Reactive programming community & documentation | - | ![GitHub Repo stars](https://img.shields.io/github/stars/reactivegroup/docs?style=social) |
 | [LifeCat](https://github.com/lifecat-stack/Lifecat) | Intelligent photo album system (full-stack web + mobile) | - | ![GitHub Repo stars](https://img.shields.io/github/stars/lifecat-stack/Lifecat?style=social) |
 | [Aditum](https://github.com/aditum-stack/Aditum) | Community access control big data analysis system | - | ![GitHub Repo stars](https://img.shields.io/github/stars/aditum-stack/Aditum?style=social) |
