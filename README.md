@@ -67,7 +67,7 @@
 
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
-| [编神纪](https://github.com/kevinten-ai/Compiling-the-Dao) | AI 玄幻小说 / AI 动漫，程序员修仙 · 天道源码 · 算法斗技 · AI 觉醒 | [GitHub](https://github.com/kevinten-ai/Compiling-the-Dao) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
+| [编神纪](https://github.com/kevinten-ai/Compiling-the-Dao) | AI 玄幻小说 / AI 动漫，程序员修仙 · 天道源码 · 算法斗技 · AI 觉醒 | [🔗 番茄小说网](https://fanqienovel.com/page/7610459214112115736) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
 
 ---
 
