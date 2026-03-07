@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-kevinten10.github.io-blue?style=for-the-badge)](https://kevinten10.github.io/)
 [![AI Tools](https://img.shields.io/badge/AI%20Tools-30%2B%20评测-8B5CF6?style=for-the-badge)](https://ava-agent.github.io/ai-tools)
-[![公众号](https://img.shields.io/badge/公众号-KevinTen-07C160?style=for-the-badge&logo=wechat)](https://github.com/kevinten10/kevinten10.github.io/blob/master/images/wechat.png)
+[![公众号](https://img.shields.io/badge/公众号-AIRider-07C160?style=for-the-badge&logo=wechat)](https://github.com/kevinten10/kevinten10.github.io/blob/master/images/wechat.png)
 
 [![English](https://img.shields.io/badge/English-README_EN-blue?style=flat-square)](README_EN.md)
 
