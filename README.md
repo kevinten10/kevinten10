@@ -7,11 +7,12 @@
 [![Website](https://img.shields.io/badge/Website-kevinten10.github.io-blue?style=for-the-badge)](https://kevinten10.github.io/)
 [![X](https://img.shields.io/badge/X-@kevinten1024-000000?style=for-the-badge&logo=x)](https://x.com/kevinten1024)
 [![WeChat](https://img.shields.io/badge/WeChat-KevinTen-07C160?style=for-the-badge&logo=wechat)](https://github.com/kevinten10/kevinten10.github.io/blob/master/images/wechat.png)
-[![Xiaohongshu](https://img.shields.io/badge/小红书-KevinTen-FF2442?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/5beeb71fe4873800017463fa)
-[![Zhihu](https://img.shields.io/badge/知乎-KevinTen-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-shi-hao-93-9)
-[![CSDN](https://img.shields.io/badge/CSDN-KevinTen-FC5531?style=for-the-badge)](https://blog.csdn.net/wsh596823919)
-[![Douyin](https://img.shields.io/badge/抖音-KevinTen-000000?style=for-the-badge&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAvJHfd8N6myG3RyTR480KNC3J0bqmXwd_263-MZksxzU?from_tab_name=main)
-[![TikTok](https://img.shields.io/badge/TikTok-@kevinten1024-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@kevinten1024)
+
+[![小红书](https://img.shields.io/badge/小红书-KevinTen-FF2442?style=flat-square)](https://www.xiaohongshu.com/user/profile/5beeb71fe4873800017463fa)
+[![知乎](https://img.shields.io/badge/知乎-KevinTen-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-shi-hao-93-9)
+[![CSDN](https://img.shields.io/badge/CSDN-KevinTen-FC5531?style=flat-square)](https://blog.csdn.net/wsh596823919)
+[![抖音](https://img.shields.io/badge/抖音-KevinTen-000000?style=flat-square&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAvJHfd8N6myG3RyTR480KNC3J0bqmXwd_263-MZksxzU?from_tab_name=main)
+[![TikTok](https://img.shields.io/badge/TikTok-@kevinten1024-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@kevinten1024)
 
 [![中文](https://img.shields.io/badge/中文-README__CN-red?style=flat-square)](README_CN.md)
 
@@ -28,9 +29,25 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 [![Dubbo](https://img.shields.io/badge/Dubbo-Contributor-5FB8B0?style=flat-square)](https://github.com/apache/dubbo)
 [![ReactiveGroup](https://img.shields.io/badge/ReactiveGroup-Maintainer-2F80ED?style=flat-square)](https://github.com/reactivegroup)
 
+## 🐙 OpenOctopus — What I'm Building
+
+<div align="center">
+
+**Realm-native life agent system. Organize life by realms. Summon anything into a living agent.**
+
+[![GitHub](https://img.shields.io/github/stars/open-octopus/openoctopus?style=for-the-badge&logo=github&label=Stars)](https://github.com/open-octopus/openoctopus)
+[![Website](https://img.shields.io/badge/Website-openoctopus.club-00CED1?style=for-the-badge)](https://openoctopus.club)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/open-octopus/openoctopus/blob/main/LICENSE)
+
+`Realm Matrix` · `Summon` · `Cross-Realm Intelligence` · `Agent Teams` · `RealmHub` · `Local-first`
+
+</div>
+
+> Like an octopus, each tentacle has its own nerve center and acts autonomously, while the central brain coordinates everything. Turn any real-world object — your pet, your mom, your car — into a living AI agent with memory, personality, and proactive behavior.
+
 ## 📦 Featured Projects
 
-### Classic Projects (Software Engineering)
+### Infrastructure & Runtime
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
@@ -52,7 +69,6 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
-| [OpenOctopus](https://github.com/open-octopus/openoctopus) | 🐙 Realm-native life agent system. Organize life by realms. Summon anything into a living agent. | [🔗 Website](https://openoctopus.club) | ![GitHub Repo stars](https://img.shields.io/github/stars/open-octopus/openoctopus?style=social) |
 | [AI Tools](https://github.com/ava-agent/ai-tools) | AI Dev Tools Selection Guide, 30+ tools SWOT analysis | [🔗 Website](https://ava-agent.github.io/ai-tools/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
 | [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + Metaverse Tourism Platform (**Hackathon Finalist**) | [🔗 Demo](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
 | [Trip AVA](https://github.com/ava-agent/trip-ava) | AI Digital Human Travel Guide (**Hackathon Bronze**) | [GitHub](https://github.com/ava-agent/trip-ava) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
@@ -74,7 +90,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 **Tool Projects:**
 - **[PUA CLI](https://github.com/ava-agent/pua-cli)** - **Fun AI CLI** · [Demo](https://pua.rxcloud.group)
-- **[Vedio Agent](https://github.com/ava-agent/vedio-agent)** - AI Multimedia Tools Reference, 60+ tools · [GitHub](https://github.com/ava-agent/vedio-agent)
+- **[Video Agent](https://github.com/ava-agent/vedio-agent)** - AI Multimedia Tools Reference, 60+ tools · [GitHub](https://github.com/ava-agent/vedio-agent)
 - **[Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval)** - Spring Festival AI Assistant · [Demo](https://spring.rxcloud.group)
 
 </details>
