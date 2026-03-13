@@ -47,7 +47,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 ## 📦 Featured Projects
 
-### Infrastructure & Runtime
+### Cloud-Native & Middleware
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
