@@ -51,7 +51,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
-| [Capa-Java](https://github.com/capa-cloud/capa-java) | Multi-runtime SDK for hybrid cloud (write once, run anywhere) | [🔗 Website](https://capa-cloud.github.io/capa.io/) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-java?style=social) |
+| [Capa-Java](https://github.com/capa-cloud/capa-java) | Multi-runtime SDK for hybrid cloud (write once, run anywhere) | [🔗 官网](https://capa-cloud.github.io/capa.io/) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-java?style=social) |
 | [Capa-BFF](https://github.com/capa-cloud/capa-bff) | Zero-cost BFF Solution (**Hackathon Gold**) | [GitHub](https://github.com/capa-cloud/capa-bff) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-bff?style=social) |
 | [VRML](https://github.com/project-vrml/vrml) | High-level abstract API library for application runtime | [GitHub](https://github.com/project-vrml/vrml) | ![GitHub Repo stars](https://img.shields.io/github/stars/project-vrml/vrml?style=social) |
 | [Reactive Group](https://github.com/reactivegroup/docs) | Reactive programming community and documentation | [GitHub](https://github.com/reactivegroup/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/reactivegroup/docs?style=social) |
@@ -69,10 +69,10 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
-| [AI Tools](https://github.com/ava-agent/ai-tools) | AI Dev Tools Selection Guide, 30+ tools SWOT analysis | [🔗 Website](https://ava-agent.github.io/ai-tools/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
-| [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + Metaverse Tourism Platform (**Hackathon Finalist**) | [🔗 Demo](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
+| [AI Tools](https://github.com/ava-agent/ai-tools) | AI Dev Tools Selection Guide, 30+ tools SWOT analysis | [🔗 官网](https://ava-agent.github.io/ai-tools/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
+| [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + Metaverse Tourism Platform (**Hackathon Finalist**) | [🔗 官网](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
 | [Trip AVA](https://github.com/ava-agent/trip-ava) | AI Digital Human Travel Guide (**Hackathon Bronze**) | [GitHub](https://github.com/ava-agent/trip-ava) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
-| [ClawX](https://github.com/ava-agent/money-agent) | AI Money-Making Guide · 33 Methods · 5 Business Models | [🔗 Demo](https://money.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/money-agent?style=social) |
+| [ClawX](https://github.com/ava-agent/money-agent) | AI Money-Making Guide · 33 Methods · 5 Business Models | [🔗 官网](https://money.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/money-agent?style=social) |
 
 <details>
 <summary><b>More AI Projects</b> (Click to expand)</summary>
@@ -131,7 +131,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
-| [Compiling the Dao](https://github.com/kevinten-ai/Compiling-the-Dao) | Open-source Xianxia Novel — Where Cultivation is Programming | [🔗 Website](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
+| [Compiling the Dao](https://github.com/kevinten-ai/Compiling-the-Dao) | Open-source Xianxia Novel — Where Cultivation is Programming | [🔗 官网](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
 | [Fish Game](https://github.com/ava-agent/fish-agent) | Pixel-art Fishing Simulator Game | [🔗 官网](https://fish.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/fish-agent?style=social) |
 
 <details>
