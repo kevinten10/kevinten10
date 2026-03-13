@@ -37,7 +37,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 [![GitHub](https://img.shields.io/github/stars/open-octopus/openoctopus?style=for-the-badge&logo=github&label=Stars)](https://github.com/open-octopus/openoctopus)
 [![Website](https://img.shields.io/badge/Website-openoctopus.club-00CED1?style=for-the-badge)](https://openoctopus.club)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/open-octopus/openoctopus/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/open-octopus/openoctopus)
 
 `Realm Matrix` · `Summon` · `Cross-Realm Intelligence` · `Agent Teams` · `RealmHub` · `Local-first`
 
@@ -65,33 +65,68 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 </details>
 
-### AI Projects
+### AI Agent Applications
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
 | [AI Tools](https://github.com/ava-agent/ai-tools) | AI Dev Tools Selection Guide, 30+ tools SWOT analysis | [🔗 Website](https://ava-agent.github.io/ai-tools/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
 | [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + Metaverse Tourism Platform (**Hackathon Finalist**) | [🔗 Demo](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
 | [Trip AVA](https://github.com/ava-agent/trip-ava) | AI Digital Human Travel Guide (**Hackathon Bronze**) | [GitHub](https://github.com/ava-agent/trip-ava) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
-| [Trip Agent](https://github.com/ava-agent/trip-agent) | Multi-Agent Travel Planner | [🔗 Demo](https://trip.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-agent?style=social) |
+| [ClawX](https://github.com/ava-agent/money-agent) | AI Money-Making Guide · 33 Methods · 5 Business Models | [🔗 Demo](https://money.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/money-agent?style=social) |
 
 <details>
 <summary><b>More AI Projects</b> (Click to expand)</summary>
 
-**Agent Projects:**
-- **[ADV Agent](https://github.com/ava-agent/adv-agent)** - Motorcycle Community + AI Routes · [Community](https://adv.rxcloud.group)
-- **[Meeting Agent](https://github.com/ava-agent/meeting-agent)** - AI Meeting Planner · [Demo](https://meeting.rxcloud.group)
-- **[SPA Agent](https://github.com/ava-agent/spa-agent)** - AI Spa & Wellness Assistant · [Demo](https://spa.rxcloud.group)
-- **[Health Agent](https://github.com/ava-agent/health-agent)** - AI Health Management · [Demo](https://health.rxcloud.group)
-- **[Money Agent](https://github.com/ava-agent/money-agent)** - AI Financial Assistant · [Demo](https://money.rxcloud.group)
-- **[English Agent](https://github.com/ava-agent/english-agent)** - AI English Learning · [Demo](https://english.rxcloud.group)
-- **[Fish Agent](https://github.com/ava-agent/fish-agent)** - AI Fishing Assistant · [Demo](https://fish.rxcloud.group)
-- **[Name Agent](https://github.com/ava-agent/name-agent)** - AI Naming Assistant · [Demo](https://name.rxcloud.group)
-- **[Vietnam Agent](https://github.com/ava-agent/vietnam-agent)** - AI Vietnam Travel · [Demo](https://vietnam.rxcloud.group)
+#### 🌏 Travel & Outdoor
 
-**Tool Projects:**
-- **[PUA CLI](https://github.com/ava-agent/pua-cli)** - **Fun AI CLI** · [Demo](https://pua.rxcloud.group)
-- **[Video Agent](https://github.com/ava-agent/vedio-agent)** - AI Multimedia Tools Reference, 60+ tools · [GitHub](https://github.com/ava-agent/vedio-agent)
-- **[Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval)** - Spring Festival AI Assistant · [Demo](https://spring.rxcloud.group)
+| Project | Description | Link |
+|:---|:---|:---:|
+| [Trip Agent](https://github.com/ava-agent/trip-agent) | Multi-Agent Travel Planner | [🔗 Demo](https://trip.rxcloud.group) |
+| [ADV Agent](https://github.com/ava-agent/adv-agent) | Motorcycle Riding Community + AI Route Recommendations | [🔗 Demo](https://adv.rxcloud.group) |
+| [Vietnam Agent](https://github.com/ava-agent/vietnam-agent) | One-stop Vietnam Travel Guide App | [GitHub](https://github.com/ava-agent/vietnam-agent) |
+
+#### 🏥 Life & Wellness
+
+| Project | Description | Link |
+|:---|:---|:---:|
+| [Meeting Agent](https://github.com/ava-agent/meeting-agent) | AI Meeting Planner — Agenda, Speech, Poster, Gifts | [🔗 Demo](https://meeting.rxcloud.group) |
+| [SPA Agent](https://github.com/ava-agent/spa-agent) | Spa & Wellness Encyclopedia · Guide · AI Consultant | [🔗 Demo](https://spa.rxcloud.group) |
+| [Dog Agent](https://github.com/ava-agent/dog-agent) | PawPal — Pet Social App, TikTok-style + Tinder-style | [🔗 Demo](https://pet.rxcloud.group) |
+| [Maichong](https://github.com/ava-agent/maichong) | AI Life Rhythm Coordination for Intimate Groups | [🔗 Demo](https://maichong.rxcloud.group) |
+
+#### 📚 Learning & Finance
+
+| Project | Description | Link |
+|:---|:---|:---:|
+| [English Agent](https://github.com/ava-agent/english-agent) | AI English Learning · 8 Destinations · 3 AI Characters · FSRS | [🔗 Demo](https://english.rxcloud.group) |
+| [Name Agent](https://github.com/ava-agent/name-agent) | AI Baby Naming with GLM-4 · Card-style · Swipe-to-pick | [🔗 Demo](https://name.rxcloud.group) |
+
+#### ⚖️ Utility & Rights
+
+| Project | Description | Link |
+|:---|:---|:---:|
+| [Law Agent](https://github.com/ava-agent/law-agent) | AI Consumer Rights Protection Assistant | [🔗 Demo](https://law.rxcloud.group) |
+| [Argue Agent](https://github.com/ava-agent/argue-agent) | Real-time Debate Assistant, Auto-verify Arguments | [🔗 Demo](https://argue.rxcloud.group) |
+
+#### 🛠️ Tools & Guides
+
+| Project | Description | Link |
+|:---|:---|:---:|
+| [Video Agent](https://github.com/ava-agent/vedio-agent) | AI Multimedia Tools Encyclopedia, 61+ Tools | [🔗 Website](https://video.rxcloud.group/) |
+| [3D Agent](https://github.com/ava-agent/3d-agent) | One-stop 3D Model Generation Assistant | [🔗 Demo](https://3d.rxcloud.group/) |
+| [Promotion Agent](https://github.com/ava-agent/promotion-agent) | Social Media Cross-posting Guide, 11+ Platforms | [🔗 Website](https://ava-agent.github.io/promotion-agent/) |
+| [S.B.](https://github.com/ava-agent/S.B.) | Smart Brain — AI Thinking Coach | [🔗 Demo](https://sb.rxcloud.group/) |
+| [Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval) | Spring Festival AI Assistant | [🔗 Demo](https://spring.rxcloud.group) |
+
+#### 🔧 CLI & MCP
+
+| Project | Description | Link |
+|:---|:---|:---:|
+| [MCP Video Gen](https://github.com/kevinten-ai/mcp-video-gen) | Multi-provider AI Video/Speech/Music MCP Server | [GitHub](https://github.com/kevinten-ai/mcp-video-gen) |
+| [MCP 3D Gen](https://github.com/kevinten-ai/mcp-3d-gen) | Multi-provider AI 3D Model Generation MCP Server | [GitHub](https://github.com/kevinten-ai/mcp-3d-gen) |
+| [MCP Image Gen](https://github.com/kevinten-ai/mcp-image-gen) | AI Image Generation MCP Server (Google Gemini) | [GitHub](https://github.com/kevinten-ai/mcp-image-gen) |
+| [ccuse](https://github.com/kevinten-ai/ccuse) | Claude Code Profile Switcher CLI | [GitHub](https://github.com/kevinten-ai/ccuse) |
+| [PUA CLI](https://github.com/ava-agent/pua-cli) | Fun AI CLI Tool | [🔗 Demo](https://pua.rxcloud.group) |
 
 </details>
 
@@ -99,16 +134,17 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
-| [Compiling the Dao](https://github.com/kevinten-ai/Compiling-the-Dao) | AI Fantasy Novel / AI Anime, Programmer Cultivation · Heavenly Dao Source Code | [🔗 Fanqie](https://fanqienovel.com/page/7610459214112115736) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
+| [Compiling the Dao](https://github.com/kevinten-ai/Compiling-the-Dao) | Open-source Xianxia Novel — Where Cultivation is Programming | [🔗 Website](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
+| [Fish Game](https://github.com/ava-agent/fish-agent) | Pixel-art Fishing Simulator Game | [🔗 Play](https://fish.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/fish-agent?style=social) |
 
 
 <div align="center">
 
 ## 🚀 Explore More
 
-**👉 [Personal Website](https://kevinten10.github.io/)** - Tech journey, project reviews
+**👉 [Personal Website](https://kevinten10.github.io/)** — Tech journey, project reviews
 
-**👉 [AI Tools](https://ava-agent.github.io/ai-tools/)** - 30+ AI tools selection guide
+**👉 [AI Tools](https://ava-agent.github.io/ai-tools/)** — 30+ AI tools selection guide
 
 ---
 
