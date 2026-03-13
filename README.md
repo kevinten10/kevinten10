@@ -25,9 +25,9 @@
 Focused on cloud-native distributed systems and multi-runtime architecture. Contributed to:
 
 [![Dapr](https://img.shields.io/badge/Dapr-Contributor-0078D4?style=flat-square)](https://github.com/dapr)
-[![Layotto](https://img.shields.io/badge/Layotto-Contributor-5FB8B0?style=flat-square)](https://github.com/mosn/layotto)
-[![Dubbo](https://img.shields.io/badge/Dubbo-Contributor-5FB8B0?style=flat-square)](https://github.com/apache/dubbo)
-[![ReactiveGroup](https://img.shields.io/badge/ReactiveGroup-Maintainer-2F80ED?style=flat-square)](https://github.com/reactivegroup)
+[![Layotto](https://img.shields.io/badge/Layotto-Contributor-00D4AA?style=flat-square)](https://github.com/mosn/layotto)
+[![Dubbo](https://img.shields.io/badge/Dubbo-Contributor-F97316?style=flat-square)](https://github.com/apache/dubbo)
+[![ReactiveGroup](https://img.shields.io/badge/ReactiveGroup-Maintainer-8B5CF6?style=flat-square)](https://github.com/reactivegroup)
 
 ## 🐙 OpenOctopus — What I'm Building
 
