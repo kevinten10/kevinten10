@@ -70,9 +70,9 @@
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
 | [AI Tools](https://github.com/ava-agent/ai-tools) | AI 开发工具选型指南，30+ 工具评测 | [🔗 官网](https://ava-agent.github.io/ai-tools/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
-| [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + 元宇宙旅游平台（**Hackathon 决赛**） | [🔗 体验站](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
+| [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + 元宇宙旅游平台（**Hackathon 决赛**） | [🔗 官网](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
 | [Trip AVA](https://github.com/ava-agent/trip-ava) | AI 数字人旅行向导（**Hackathon 铜奖**） | [GitHub](https://github.com/ava-agent/trip-ava) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
-| [ClawX](https://github.com/ava-agent/money-agent) | AI 赚钱完全指南 · 33 种方法 · 5 大商业模式 | [🔗 体验站](https://money.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/money-agent?style=social) |
+| [ClawX](https://github.com/ava-agent/money-agent) | AI 赚钱完全指南 · 33 种方法 · 5 大商业模式 | [🔗 官网](https://money.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/money-agent?style=social) |
 
 <details>
 <summary><b>更多 AI 项目</b>（点击展开）</summary>
@@ -81,7 +81,7 @@
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
-| [Trip Agent](https://github.com/ava-agent/trip-agent) | Multi-Agent 智能旅行规划 | [🔗 体验站](https://trip.rxcloud.group) |
+| [Trip Agent](https://github.com/ava-agent/trip-agent) | Multi-Agent 智能旅行规划 | [🔗 官网](https://trip.rxcloud.group) |
 | [ADV Agent](https://github.com/ava-agent/adv-agent) | ADV 摩托骑行社区 + AI 路线推荐 | [🔗 社区](https://adv.rxcloud.group) |
 | [Vietnam Agent](https://github.com/ava-agent/vietnam-agent) | 一站式越南旅行指南 App | [GitHub](https://github.com/ava-agent/vietnam-agent) |
 
@@ -89,44 +89,41 @@
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
-| [Meeting Agent](https://github.com/ava-agent/meeting-agent) | AI 会议策划 — 议程、演讲稿、海报、伴手礼一键生成 | [🔗 体验站](https://meeting.rxcloud.group) |
-| [SPA Agent](https://github.com/ava-agent/spa-agent) | 按摩 SPA 知识大全 · 消费指南 · AI 顾问 | [🔗 体验站](https://spa.rxcloud.group) |
-| [Dog Agent](https://github.com/ava-agent/dog-agent) | PawPal 宠友圈 — 抖音风格 + Tinder 式宠物社交 | [🔗 体验站](https://pet.rxcloud.group) |
-| [Maichong](https://github.com/ava-agent/maichong) | 脉冲 — AI 亲密圈生活节奏协调助手 | [🔗 体验站](https://maichong.rxcloud.group) |
+| [Meeting Agent](https://github.com/ava-agent/meeting-agent) | AI 会议策划 — 议程、演讲稿、海报、伴手礼一键生成 | [🔗 官网](https://meeting.rxcloud.group) |
+| [SPA Agent](https://github.com/ava-agent/spa-agent) | 按摩 SPA 知识大全 · 消费指南 · AI 顾问 | [🔗 官网](https://spa.rxcloud.group) |
+| [Dog Agent](https://github.com/ava-agent/dog-agent) | PawPal 宠友圈 — 抖音风格 + Tinder 式宠物社交 | [🔗 官网](https://pet.rxcloud.group) |
+| [Maichong](https://github.com/ava-agent/maichong) | 脉冲 — AI 亲密圈生活节奏协调助手 | [🔗 官网](https://maichong.rxcloud.group) |
 
 #### 📚 学习 & 财务
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
-| [English Agent](https://github.com/ava-agent/english-agent) | 沉浸式旅行场景 AI 英语 · 8 目的地 · 3 AI 角色 · FSRS | [🔗 体验站](https://english.rxcloud.group) |
-| [Name Agent](https://github.com/ava-agent/name-agent) | GLM-4 AI 起名 · 卡片式交互 · 探探式滑动选名 | [🔗 体验站](https://name.rxcloud.group) |
+| [English Agent](https://github.com/ava-agent/english-agent) | 沉浸式旅行场景 AI 英语 · 8 目的地 · 3 AI 角色 · FSRS | [🔗 官网](https://english.rxcloud.group) |
+| [Name Agent](https://github.com/ava-agent/name-agent) | GLM-4 AI 起名 · 卡片式交互 · 探探式滑动选名 | [🔗 官网](https://name.rxcloud.group) |
 
 #### ⚖️ 实用 & 维权
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
-| [Law Agent](https://github.com/ava-agent/law-agent) | AI 消费者维权智能咨询 | [🔗 体验站](https://law.rxcloud.group) |
-| [Argue Agent](https://github.com/ava-agent/argue-agent) | 实时辩论助手 · 自动验证对方论点 | [🔗 体验站](https://argue.rxcloud.group) |
+| [Law Agent](https://github.com/ava-agent/law-agent) | AI 消费者维权智能咨询 | [🔗 官网](https://law.rxcloud.group) |
+| [Argue Agent](https://github.com/ava-agent/argue-agent) | 实时辩论助手 · 自动验证对方论点 | [🔗 官网](https://argue.rxcloud.group) |
 
 #### 🛠️ 工具 & 指南
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
 | [Video Agent](https://github.com/ava-agent/vedio-agent) | AI 多媒体工具百科 · 61+ 款工具对比与 MCP 集成 | [🔗 官网](https://video.rxcloud.group/) |
-| [3D Agent](https://github.com/ava-agent/3d-agent) | 一站式 3D 模型生成助手 | [🔗 体验站](https://3d.rxcloud.group/) |
+| [3D Agent](https://github.com/ava-agent/3d-agent) | 一站式 3D 模型生成助手 | [🔗 官网](https://3d.rxcloud.group/) |
 | [Promotion Agent](https://github.com/ava-agent/promotion-agent) | 社交媒体全平台推广指南 · 11+ 平台 | [🔗 官网](https://ava-agent.github.io/promotion-agent/) |
-| [S.B.](https://github.com/ava-agent/S.B.) | Smart Brain — AI 思维陪练 | [🔗 体验站](https://sb.rxcloud.group/) |
-| [Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval) | 春节 AI 助手 | [🔗 体验站](https://spring.rxcloud.group) |
+| [S.B.](https://github.com/ava-agent/S.B.) | Smart Brain — AI 思维陪练 | [🔗 官网](https://sb.rxcloud.group/) |
+| [Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval) | 春节 AI 助手 | [🔗 官网](https://spring.rxcloud.group) |
 
 #### 🔧 CLI & MCP
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
-| [MCP Video Gen](https://github.com/kevinten-ai/mcp-video-gen) | 多提供商 AI 视频/语音/音乐 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-video-gen) |
-| [MCP 3D Gen](https://github.com/kevinten-ai/mcp-3d-gen) | 多提供商 AI 3D 模型生成 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-3d-gen) |
-| [MCP Image Gen](https://github.com/kevinten-ai/mcp-image-gen) | AI 图像生成 MCP 服务器（Google Gemini） | [GitHub](https://github.com/kevinten-ai/mcp-image-gen) |
 | [ccuse](https://github.com/kevinten-ai/ccuse) | Claude Code 配置文件切换器 CLI | [GitHub](https://github.com/kevinten-ai/ccuse) |
-| [PUA CLI](https://github.com/ava-agent/pua-cli) | 趣味 AI CLI 工具 | [🔗 体验站](https://pua.rxcloud.group) |
+| [PUA CLI](https://github.com/ava-agent/pua-cli) | 趣味 AI CLI 工具 | [🔗 官网](https://pua.rxcloud.group) |
 
 </details>
 
@@ -135,7 +132,18 @@
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
 | [编神纪](https://github.com/kevinten-ai/Compiling-the-Dao) | 开源玄幻小说 — 修仙即编程 · 天道源码 · 算法斗技 | [🔗 官网](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
-| [Fish Game](https://github.com/ava-agent/fish-agent) | 钓鱼佬 — 像素风钓鱼模拟游戏 | [🔗 开玩](https://fish.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/fish-agent?style=social) |
+| [Fish Game](https://github.com/ava-agent/fish-agent) | 钓鱼佬 — 像素风钓鱼模拟游戏 | [🔗 官网](https://fish.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/fish-agent?style=social) |
+
+<details>
+<summary><b>MCP Generators</b> (点击展开)
+
+| 项目 | 简介 | 链接 |
+|:---|:---|:---:|
+| [MCP Video Gen](https://github.com/kevinten-ai/mcp-video-gen) | 多提供商 AI 视频/语音/音乐 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-video-gen) |
+| [MCP 3D Gen](https://github.com/kevinten-ai/mcp-3d-gen) | 多提供商 AI 3D 模型生成 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-3d-gen) |
+| [MCP Image Gen](https://github.com/kevinten-ai/mcp-image-gen) | AI 图像生成 MCP 服务器（Google Gemini） | [GitHub](https://github.com/kevinten-ai/mcp-image-gen) |
+
+</details>
 
 
 <div align="center">
