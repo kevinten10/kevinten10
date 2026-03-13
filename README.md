@@ -4,9 +4,9 @@
 
 **AI-Native Builder · Software Architect · Open Source Contributor**
 
-[![Website](https://img.shields.io/badge/Website-kevinten10.github.io-blue?style=for-the-badge)](https://kevinten10.github.io/)
+[![Website](https://img.shields.io/badge/Website-kevinten.com-blue?style=for-the-badge)](https://kevinten.com/)
 [![X](https://img.shields.io/badge/X-@kevinten1024-000000?style=for-the-badge&logo=x)](https://x.com/kevinten1024)
-[![WeChat](https://img.shields.io/badge/WeChat-KevinTen-07C160?style=for-the-badge&logo=wechat)](https://github.com/kevinten10/kevinten10.github.io/blob/master/images/wechat.png)
+[![WeChat](https://img.shields.io/badge/WeChat-KevinTen-07C160?style=for-the-badge&logo=wechat)](https://github.com/kevinten10/kevinten.com/blob/master/images/wechat.png)
 
 [![小红书](https://img.shields.io/badge/小红书-KevinTen-FF2442?style=flat-square)](https://www.xiaohongshu.com/user/profile/5beeb71fe4873800017463fa)
 [![知乎](https://img.shields.io/badge/知乎-KevinTen-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-shi-hao-93-9)
@@ -150,7 +150,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 ## 🚀 Explore More
 
-**👉 [Personal Website](https://kevinten10.github.io/)** — Tech journey, project reviews
+**👉 [Personal Website](https://kevinten.com/)** — Tech journey, project reviews
 
 **👉 [AI Tools](https://ava-agent.github.io/ai-tools/)** — 30+ AI tools selection guide
 
