@@ -124,7 +124,7 @@
 | [Video Agent](https://github.com/ava-agent/vedio-agent) | AI 多媒体工具百科 · 61+ 款工具对比与 MCP 集成 | [🔗 官网](https://video.rxcloud.group/) |
 | [3D Agent](https://github.com/ava-agent/3d-agent) | 一站式 3D 模型生成助手 | [🔗 官网](https://3d.rxcloud.group/) |
 | [Promotion Agent](https://github.com/ava-agent/promotion-agent) | 社交媒体全平台推广指南 · 11+ 平台 | [🔗 官网](https://ava-agent.github.io/promotion-agent/) |
-| [2077 日报](https://github.com/kevinten-ai/2077-daily) | 2077 日报 — 来自未来的疯狂新闻社区 | [GitHub](https://github.com/kevinten-ai/2077-daily) |
+| [2077 日报](https://github.com/kevinten-ai/2077-daily) | 2077 日报 — 来自未来的疯狂新闻社区 | [🔗 官网](https://2077.rxcloud.group) |
 
 #### 🤖 AI 研究 & 基础设施
 
@@ -148,7 +148,7 @@
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
 | [编神纪](https://github.com/kevinten-ai/Compiling-the-Dao) | 开源玄幻小说 — 修仙即编程 · 天道源码 · 算法斗技 | [🔗 官网](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
-| [元界 AI Group](https://github.com/yuanjie-ai-group) | 元界 AI — 专注于人工智能技术与应用创新 | [🔗 官网](https://yuanjie.ai) | — |
+| [元界 AI Group](https://github.com/yuanjie-ai-group) | 元界 AI — 专注于人工智能技术与应用创新 | [🔗 官网](https://yuanjie.rxcloud.group) | — |
 
 <details>
 <summary><b>更多</b>（点击展开）</summary>

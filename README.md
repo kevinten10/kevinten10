@@ -124,7 +124,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 | [Video Agent](https://github.com/ava-agent/vedio-agent) | AI Multimedia Tools Encyclopedia, 61+ Tools | [🔗 Website](https://video.rxcloud.group/) |
 | [3D Agent](https://github.com/ava-agent/3d-agent) | One-stop 3D Model Generation Assistant | [🔗 Website](https://3d.rxcloud.group/) |
 | [Promotion Agent](https://github.com/ava-agent/promotion-agent) | Social Media Cross-posting Guide, 11+ Platforms | [🔗 Website](https://ava-agent.github.io/promotion-agent/) |
-| [2077 Daily](https://github.com/kevinten-ai/2077-daily) | 2077 Daily — Dispatches from the Future News Community | [GitHub](https://github.com/kevinten-ai/2077-daily) |
+| [2077 Daily](https://github.com/kevinten-ai/2077-daily) | 2077 Daily — Dispatches from the Future News Community | [🔗 Website](https://2077.rxcloud.group) |
 
 #### 🤖 AI Research & Infra
 
@@ -148,7 +148,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
 | [Compiling the Dao](https://github.com/kevinten-ai/Compiling-the-Dao) | Open-source Xianxia Novel — Where Cultivation is Programming | [🔗 Website](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
-| [YuanJie AI Group](https://github.com/yuanjie-ai-group) | YuanJie AI — AI Technology & Application Innovation | [🔗 Website](https://yuanjie.ai) | — |
+| [YuanJie AI Group](https://github.com/yuanjie-ai-group) | YuanJie AI — AI Technology & Application Innovation | [🔗 Website](https://yuanjie.rxcloud.group) | — |
 
 <details>
 <summary><b>More</b> (Click to expand)</summary>
