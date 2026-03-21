@@ -77,7 +77,7 @@
 
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
-| [AI Tools](https://github.com/ava-agent/ai-tools) | AI 开发工具选型指南，30+ 工具评测 | [🔗 官网](https://ava-agent.github.io/ai-tools/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
+| [AI Tools](https://github.com/ava-agent/ai-tools) | AI 开发工具选型指南，30+ 工具评测 | [🔗 官网](https://aitools.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
 | [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + 元宇宙旅游平台（**Hackathon 决赛**） | [🔗 官网](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
 | [Trip AVA](https://github.com/ava-agent/trip-ava) | AI 数字人旅行向导（**Hackathon 铜奖**） | [GitHub](https://github.com/ava-agent/trip-ava) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
 
@@ -180,7 +180,7 @@
 
 **👉 [个人主页](https://kevinten.com/)** — 技术成长之路、项目实战复盘
 
-**👉 [AI Tools](https://ava-agent.github.io/ai-tools/)** — 30+ AI 开发工具选型
+**👉 [AI Tools](https://aitools.rxcloud.group)** — 30+ AI 开发工具选型
 
 ---
 
