@@ -58,7 +58,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
-| [Capa-Java](https://github.com/capa-cloud/capa-java) | Multi-runtime SDK for hybrid cloud (write once, run anywhere) | [🔗 Website](https://capa-cloud.github.io/capa.io/) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-java?style=social) |
+| [Capa-Java](https://github.com/capa-cloud/capa-java) | Multi-runtime SDK for hybrid cloud (write once, run anywhere) | [🔗 Website](https://capa.rxcloud.group/) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-java?style=social) |
 | [Capa-BFF](https://github.com/capa-cloud/capa-bff) | Zero-cost BFF Solution (**Hackathon Gold**) | [GitHub](https://github.com/capa-cloud/capa-bff) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-bff?style=social) |
 | [VRML](https://github.com/project-vrml/vrml) | High-level abstract API library for application runtime | [GitHub](https://github.com/project-vrml/vrml) | ![GitHub Repo stars](https://img.shields.io/github/stars/project-vrml/vrml?style=social) |
 | [Reactive Group](https://github.com/reactivegroup/docs) | Reactive programming community and documentation | [GitHub](https://github.com/reactivegroup/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/reactivegroup/docs?style=social) |
@@ -100,6 +100,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 | [SPA Agent](https://github.com/ava-agent/spa-agent) | Spa & Wellness Encyclopedia · Guide · AI Consultant | [🔗 Website](https://spa.rxcloud.group) |
 | [Dog Agent](https://github.com/ava-agent/dog-agent) | PawPal — Pet Social App, TikTok-style + Tinder-style | [🔗 Website](https://pet.rxcloud.group) |
 | [Maichong](https://github.com/ava-agent/maichong) | AI Life Rhythm Coordination for Intimate Groups | [🔗 Website](https://maichong.rxcloud.group) |
+| [Health Agent](https://github.com/ava-agent/health-agent) | AI Pregnancy Checkup Guide | [🔗 Website](https://health.rxcloud.group) |
 | [Name Agent](https://github.com/ava-agent/name-agent) | AI Baby Naming with GLM-4 · Card-style · Swipe-to-pick | [🔗 Website](https://name.rxcloud.group) |
 | [Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval) | Spring Festival AI Assistant | [🔗 Website](https://spring.rxcloud.group) |
 

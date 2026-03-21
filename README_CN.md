@@ -58,7 +58,7 @@
 
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
-| [Capa-Java](https://github.com/capa-cloud/capa-java) | 混合云多运行时 SDK（一次编写，随处运行） | [🔗 官网](https://capa-cloud.github.io/capa.io/) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-java?style=social) |
+| [Capa-Java](https://github.com/capa-cloud/capa-java) | 混合云多运行时 SDK（一次编写，随处运行） | [🔗 官网](https://capa.rxcloud.group/) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-java?style=social) |
 | [Capa-BFF](https://github.com/capa-cloud/capa-bff) | 零成本 BFF 解决方案（**Hackathon 金奖**） | [GitHub](https://github.com/capa-cloud/capa-bff) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-bff?style=social) |
 | [VRML](https://github.com/project-vrml/vrml) | 应用运行时高级抽象 API 库 | [GitHub](https://github.com/project-vrml/vrml) | ![GitHub Repo stars](https://img.shields.io/github/stars/project-vrml/vrml?style=social) |
 | [Reactive Group](https://github.com/reactivegroup/docs) | Reactive 编程社区与文档 | [GitHub](https://github.com/reactivegroup/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/reactivegroup/docs?style=social) |
@@ -100,6 +100,7 @@
 | [SPA Agent](https://github.com/ava-agent/spa-agent) | 按摩 SPA 知识大全 · 消费指南 · AI 顾问 | [🔗 官网](https://spa.rxcloud.group) |
 | [Dog Agent](https://github.com/ava-agent/dog-agent) | PawPal 宠友圈 — 抖音风格 + Tinder 式宠物社交 | [🔗 官网](https://pet.rxcloud.group) |
 | [Maichong](https://github.com/ava-agent/maichong) | 脉冲 — AI 亲密圈生活节奏协调助手 | [🔗 官网](https://maichong.rxcloud.group) |
+| [Health Agent](https://github.com/ava-agent/health-agent) | AI 孕检指南助手 | [🔗 官网](https://health.rxcloud.group) |
 | [Name Agent](https://github.com/ava-agent/name-agent) | GLM-4 AI 起名 · 卡片式交互 · 探探式滑动选名 | [🔗 官网](https://name.rxcloud.group) |
 | [Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval) | 春节 AI 助手 | [🔗 官网](https://spring.rxcloud.group) |
 
