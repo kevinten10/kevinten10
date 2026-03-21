@@ -8,11 +8,18 @@
 [![X](https://img.shields.io/badge/X-@kevinten1024-000000?style=for-the-badge&logo=x)](https://x.com/kevinten1024)
 [![公众号](https://img.shields.io/badge/公众号-KevinTen-07C160?style=for-the-badge&logo=wechat)](https://github.com/kevinten10/kevinten.com/blob/master/images/wechat.png)
 
+<details>
+<summary>社交链接</summary>
+
 [![小红书](https://img.shields.io/badge/小红书-KevinTen-FF2442?style=flat-square)](https://www.xiaohongshu.com/user/profile/5beeb71fe4873800017463fa)
 [![知乎](https://img.shields.io/badge/知乎-KevinTen-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-shi-hao-93-9)
+[![DEV.to](https://img.shields.io/badge/DEV.to-kevinten10-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/kevinten10)
 [![CSDN](https://img.shields.io/badge/CSDN-KevinTen-FC5531?style=flat-square)](https://blog.csdn.net/wsh596823919)
 [![抖音](https://img.shields.io/badge/抖音-KevinTen-000000?style=flat-square&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAvJHfd8N6myG3RyTR480KNC3J0bqmXwd_263-MZksxzU?from_tab_name=main)
 [![TikTok](https://img.shields.io/badge/TikTok-@kevinten1024-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@kevinten1024)
+[![Moltbook](https://img.shields.io/badge/Moltbook-LuckyPuppy-FF6B35?style=flat-square)](https://www.moltbook.com/u/LuckyPuppy)
+
+</details>
 
 [![English](https://img.shields.io/badge/English-README-blue?style=flat-square)](README.md)
 
@@ -72,7 +79,6 @@
 | [AI Tools](https://github.com/ava-agent/ai-tools) | AI 开发工具选型指南，30+ 工具评测 | [🔗 官网](https://ava-agent.github.io/ai-tools/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
 | [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + 元宇宙旅游平台（**Hackathon 决赛**） | [🔗 官网](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
 | [Trip AVA](https://github.com/ava-agent/trip-ava) | AI 数字人旅行向导（**Hackathon 铜奖**） | [GitHub](https://github.com/ava-agent/trip-ava) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
-| [ClawX](https://github.com/ava-agent/money-agent) | AI 赚钱完全指南 · 33 种方法 · 5 大商业模式 | [🔗 官网](https://money.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/money-agent?style=social) |
 
 <details>
 <summary><b>更多 AI 项目</b>（点击展开）</summary>
@@ -85,7 +91,7 @@
 | [ADV Agent](https://github.com/ava-agent/adv-agent) | ADV 摩托骑行社区 + AI 路线推荐 | [🔗 社区](https://adv.rxcloud.group) |
 | [Vietnam Agent](https://github.com/ava-agent/vietnam-agent) | 一站式越南旅行指南 App | [GitHub](https://github.com/ava-agent/vietnam-agent) |
 
-#### 🏥 生活 & 健康
+#### 🏠 生活 & 社交
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
@@ -93,13 +99,16 @@
 | [SPA Agent](https://github.com/ava-agent/spa-agent) | 按摩 SPA 知识大全 · 消费指南 · AI 顾问 | [🔗 官网](https://spa.rxcloud.group) |
 | [Dog Agent](https://github.com/ava-agent/dog-agent) | PawPal 宠友圈 — 抖音风格 + Tinder 式宠物社交 | [🔗 官网](https://pet.rxcloud.group) |
 | [Maichong](https://github.com/ava-agent/maichong) | 脉冲 — AI 亲密圈生活节奏协调助手 | [🔗 官网](https://maichong.rxcloud.group) |
+| [Name Agent](https://github.com/ava-agent/name-agent) | GLM-4 AI 起名 · 卡片式交互 · 探探式滑动选名 | [🔗 官网](https://name.rxcloud.group) |
+| [Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval) | 春节 AI 助手 | [🔗 官网](https://spring.rxcloud.group) |
 
-#### 📚 学习 & 财务
+#### 📚 学习 & 商业
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
 | [English Agent](https://github.com/ava-agent/english-agent) | 沉浸式旅行场景 AI 英语 · 8 目的地 · 3 AI 角色 · FSRS | [🔗 官网](https://english.rxcloud.group) |
-| [Name Agent](https://github.com/ava-agent/name-agent) | GLM-4 AI 起名 · 卡片式交互 · 探探式滑动选名 | [🔗 官网](https://name.rxcloud.group) |
+| [S.B.](https://github.com/ava-agent/S.B.) | Smart Brain — AI 思维陪练 | [🔗 官网](https://sb.rxcloud.group/) |
+| [ClawX](https://github.com/ava-agent/money-agent) | AI 赚钱完全指南 · 33 种方法 · 5 大商业模式 | [🔗 官网](https://money.rxcloud.group) |
 
 #### ⚖️ 实用 & 维权
 
@@ -108,17 +117,24 @@
 | [Law Agent](https://github.com/ava-agent/law-agent) | AI 消费者维权智能咨询 | [🔗 官网](https://law.rxcloud.group) |
 | [Argue Agent](https://github.com/ava-agent/argue-agent) | 实时辩论助手 · 自动验证对方论点 | [🔗 官网](https://argue.rxcloud.group) |
 
-#### 🛠️ 工具 & 指南
+#### 🎨 内容 & 媒体
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
 | [Video Agent](https://github.com/ava-agent/vedio-agent) | AI 多媒体工具百科 · 61+ 款工具对比与 MCP 集成 | [🔗 官网](https://video.rxcloud.group/) |
 | [3D Agent](https://github.com/ava-agent/3d-agent) | 一站式 3D 模型生成助手 | [🔗 官网](https://3d.rxcloud.group/) |
 | [Promotion Agent](https://github.com/ava-agent/promotion-agent) | 社交媒体全平台推广指南 · 11+ 平台 | [🔗 官网](https://ava-agent.github.io/promotion-agent/) |
-| [S.B.](https://github.com/ava-agent/S.B.) | Smart Brain — AI 思维陪练 | [🔗 官网](https://sb.rxcloud.group/) |
-| [Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval) | 春节 AI 助手 | [🔗 官网](https://spring.rxcloud.group) |
+| [2077 日报](https://github.com/kevinten-ai/2077-daily) | 2077 日报 — 来自未来的疯狂新闻社区 | [GitHub](https://github.com/kevinten-ai/2077-daily) |
 
-#### 🔧 CLI & MCP
+#### 🤖 AI 研究 & 基础设施
+
+| 项目 | 简介 | 链接 |
+|:---|:---|:---:|
+| [RAG Learning Platform](https://github.com/kevinten-ai/rag-learning-platform) | RAG 检索增强生成学习平台 | [🔗 官网](https://rag.rxcloud.group) |
+| [Browser Use Hotel](https://github.com/kevinten-ai/browser-use-hotel) | Browser-Use AI Agent 酒店场景实践 | [🔗 官网](https://hotel.rxcloud.group) |
+| [Mini DeepResearch](https://github.com/kevinten-ai/mini-deepresearch-agent) | 迷你深度研究 Agent | [🔗 官网](https://deepresearch.rxcloud.group) |
+
+#### 🔧 CLI & 工具
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
@@ -127,21 +143,32 @@
 
 </details>
 
-### AI 创作项目
+### AI 创意 & 工作室
 
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
 | [编神纪](https://github.com/kevinten-ai/Compiling-the-Dao) | 开源玄幻小说 — 修仙即编程 · 天道源码 · 算法斗技 | [🔗 官网](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
-| [Fish Game](https://github.com/ava-agent/fish-agent) | 钓鱼佬 — 像素风钓鱼模拟游戏 | [🔗 官网](https://fish.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/fish-agent?style=social) |
+| [元界 AI Group](https://github.com/yuanjie-ai-group) | 元界 AI — 专注于人工智能技术与应用创新 | [🔗 官网](https://yuanjie.ai) | — |
 
 <details>
-<summary><b>MCP Generators</b> (点击展开)
+<summary><b>更多</b>（点击展开）</summary>
+
+#### 🎮 创意 & 游戏
+
+| 项目 | 简介 | 链接 |
+|:---|:---|:---:|
+| [Fish Game](https://github.com/ava-agent/fish-agent) | 钓鱼佬 — 像素风钓鱼模拟游戏 | [🔗 官网](https://fish.rxcloud.group) |
+| [AI Ideas](https://github.com/ava-agent/ai-ideas) | AI 创意收集与实验 | [GitHub](https://github.com/ava-agent/ai-ideas) |
+
+#### 🔌 MCP Generators
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
 | [MCP Video Gen](https://github.com/kevinten-ai/mcp-video-gen) | 多提供商 AI 视频/语音/音乐 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-video-gen) |
 | [MCP 3D Gen](https://github.com/kevinten-ai/mcp-3d-gen) | 多提供商 AI 3D 模型生成 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-3d-gen) |
 | [MCP Image Gen](https://github.com/kevinten-ai/mcp-image-gen) | AI 图像生成 MCP 服务器（Google Gemini） | [GitHub](https://github.com/kevinten-ai/mcp-image-gen) |
+| [MCP FFmpeg](https://github.com/kevinten-ai/mcp-ffmpeg) | FFmpeg 视频/音频编辑 MCP 工具，30+ 工具 | [GitHub](https://github.com/kevinten-ai/mcp-ffmpeg) |
+| [MCP Content Styles](https://github.com/kevinten-ai/mcp-content-styles) | 一站式多平台内容创作 MCP 服务 | [GitHub](https://github.com/kevinten-ai/mcp-content-styles) |
 
 </details>
 
