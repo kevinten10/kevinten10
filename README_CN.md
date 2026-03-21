@@ -69,6 +69,7 @@
 - **[LifeCat](https://github.com/lifecat-stack/Lifecat)** - 智能相册系统（全栈 Web + 移动端） · [GitHub](https://github.com/lifecat-stack/Lifecat)
 - **[Aditum](https://github.com/aditum-stack/Aditum)** - 社区门禁大数据分析系统 · [GitHub](https://github.com/aditum-stack/Aditum)
 - **[Air](https://github.com/air-stack/Air)** - 大气监测系统（物联网） · [GitHub](https://github.com/air-stack/Air)
+- **[Papers](https://github.com/kevinten10/Papers)** - 技术论文与研究笔记 · [🔗 官网](https://paper.rxcloud.group)
 
 </details>
 

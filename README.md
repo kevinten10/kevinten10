@@ -69,6 +69,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 - **[LifeCat](https://github.com/lifecat-stack/Lifecat)** - Intelligent photo album system (full-stack Web + Mobile) · [GitHub](https://github.com/lifecat-stack/Lifecat)
 - **[Aditum](https://github.com/aditum-stack/Aditum)** - Community access big data analytics system · [GitHub](https://github.com/aditum-stack/Aditum)
 - **[Air](https://github.com/air-stack/Air)** - Air quality monitoring system (IoT solution) · [GitHub](https://github.com/air-stack/Air)
+- **[Papers](https://github.com/kevinten10/Papers)** - Technical papers and research notes · [🔗 Website](https://paper.rxcloud.group)
 
 </details>
 
