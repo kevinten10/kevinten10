@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-kevinten.com-blue?style=for-the-badge)](https://kevinten.com/)
 [![X](https://img.shields.io/badge/X-@kevinten1024-000000?style=for-the-badge&logo=x)](https://x.com/kevinten1024)
-[![公众号](https://img.shields.io/badge/公众号-KevinTen-07C160?style=for-the-badge&logo=wechat)](https://github.com/kevinten10/kevinten.com/blob/master/images/wechat.png)
+[![公众号](https://img.shields.io/badge/公众号-KevinTen-07C160?style=for-the-badge&logo=wechat)](https://kevinten.com/images/wechat.png)
 
 <details>
 <summary>社交链接</summary>
