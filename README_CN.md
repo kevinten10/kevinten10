@@ -134,7 +134,7 @@
 
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
-| [ikun-llm](https://github.com/ikun-llm) | 从零训练大模型 — 全链路实践，10 个项目 | [GitHub](https://github.com/ikun-llm/ikun-2.5B) | ![GitHub Repo stars](https://img.shields.io/github/stars/ikun-llm/ikun-2.5B?style=social) |
+| [ikun-llm](https://github.com/ikun-llm) | 从零训练大模型 — 全链路实践，10 个项目 | [ikun-2.5B](https://github.com/ikun-llm/ikun-2.5B) | ![GitHub Repo stars](https://img.shields.io/github/stars/ikun-llm/ikun-2.5B?style=social) |
 | [RAG Learning Platform](https://github.com/kevinten-ai/rag-learning-platform) | RAG 检索增强生成学习平台 | [🔗 官网](https://rag.rxcloud.group) | — |
 
 <details>
