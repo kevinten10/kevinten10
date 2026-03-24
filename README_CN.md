@@ -128,11 +128,32 @@
 | [Promotion Agent](https://github.com/ava-agent/promotion-agent) | 社交媒体全平台推广指南 · 11+ 平台 | [🔗 官网](https://ava-agent.github.io/promotion-agent/) |
 | [2077 日报](https://github.com/kevinten-ai/2077-daily) | 2077 日报 — 来自未来的疯狂新闻社区 | [🔗 官网](https://2077.rxcloud.group) |
 
-#### 🤖 AI 研究 & 基础设施
+</details>
+
+### AI Infra
+
+| 项目 | 简介 | 链接 | Stars |
+|:---|:---|:---:|:---:|
+| [ikun-llm](https://github.com/ikun-llm) | 从零训练大模型 — 分词器 · 预训练 · SFT · DPO · GRPO · 推理 · MoE · VLM · 蒸馏 · 部署 | [GitHub](https://github.com/ikun-llm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ikun-llm/ikun-2.5B?style=social) |
+| [RAG Learning Platform](https://github.com/kevinten-ai/rag-learning-platform) | RAG 检索增强生成学习平台 | [🔗 官网](https://rag.rxcloud.group) | — |
+
+<details>
+<summary><b>更多 AI Infra 项目</b>（点击展开）</summary>
+
+#### 🔌 MCP 服务器
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
-| [RAG Learning Platform](https://github.com/kevinten-ai/rag-learning-platform) | RAG 检索增强生成学习平台 | [🔗 官网](https://rag.rxcloud.group) |
+| [MCP Video Gen](https://github.com/kevinten-ai/mcp-video-gen) | 多提供商 AI 视频/语音/音乐 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-video-gen) |
+| [MCP 3D Gen](https://github.com/kevinten-ai/mcp-3d-gen) | 多提供商 AI 3D 模型生成 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-3d-gen) |
+| [MCP Image Gen](https://github.com/kevinten-ai/mcp-image-gen) | AI 图像生成 MCP 服务器（Google Gemini） | [GitHub](https://github.com/kevinten-ai/mcp-image-gen) |
+| [MCP FFmpeg](https://github.com/kevinten-ai/mcp-ffmpeg) | FFmpeg 视频/音频编辑 MCP 工具，30+ 工具 | [GitHub](https://github.com/kevinten-ai/mcp-ffmpeg) |
+| [MCP Content Styles](https://github.com/kevinten-ai/mcp-content-styles) | 一站式多平台内容创作 MCP 服务 | [GitHub](https://github.com/kevinten-ai/mcp-content-styles) |
+
+#### 🤖 研究
+
+| 项目 | 简介 | 链接 |
+|:---|:---|:---:|
 | [Browser Use Hotel](https://github.com/kevinten-ai/browser-use-hotel) | Browser-Use AI Agent 酒店场景实践 | [🔗 官网](https://hotel.rxcloud.group) |
 | [Mini DeepResearch](https://github.com/kevinten-ai/mini-deepresearch-agent) | 迷你深度研究 Agent | [🔗 官网](https://deepresearch.rxcloud.group) |
 
@@ -153,24 +174,12 @@
 | [元界 AI Group](https://github.com/yuanjie-ai-group) | 元界 AI — 专注于人工智能技术与应用创新 | [🔗 官网](https://yuanjie.rxcloud.group) | — |
 
 <details>
-<summary><b>更多</b>（点击展开）</summary>
-
-#### 🎮 创意 & 游戏
+<summary><b>更多创意项目</b>（点击展开）</summary>
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
 | [Fish Game](https://github.com/ava-agent/fish-agent) | 钓鱼佬 — 像素风钓鱼模拟游戏 | [🔗 官网](https://fish.rxcloud.group) |
 | [AI Ideas](https://github.com/ava-agent/ai-ideas) | AI 创意收集与实验 | [GitHub](https://github.com/ava-agent/ai-ideas) |
-
-#### 🔌 MCP Generators
-
-| 项目 | 简介 | 链接 |
-|:---|:---|:---:|
-| [MCP Video Gen](https://github.com/kevinten-ai/mcp-video-gen) | 多提供商 AI 视频/语音/音乐 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-video-gen) |
-| [MCP 3D Gen](https://github.com/kevinten-ai/mcp-3d-gen) | 多提供商 AI 3D 模型生成 MCP 服务器 | [GitHub](https://github.com/kevinten-ai/mcp-3d-gen) |
-| [MCP Image Gen](https://github.com/kevinten-ai/mcp-image-gen) | AI 图像生成 MCP 服务器（Google Gemini） | [GitHub](https://github.com/kevinten-ai/mcp-image-gen) |
-| [MCP FFmpeg](https://github.com/kevinten-ai/mcp-ffmpeg) | FFmpeg 视频/音频编辑 MCP 工具，30+ 工具 | [GitHub](https://github.com/kevinten-ai/mcp-ffmpeg) |
-| [MCP Content Styles](https://github.com/kevinten-ai/mcp-content-styles) | 一站式多平台内容创作 MCP 服务 | [GitHub](https://github.com/kevinten-ai/mcp-content-styles) |
 
 </details>
 

@@ -128,11 +128,32 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 | [Promotion Agent](https://github.com/ava-agent/promotion-agent) | Social Media Cross-posting Guide, 11+ Platforms | [🔗 Website](https://ava-agent.github.io/promotion-agent/) |
 | [2077 Daily](https://github.com/kevinten-ai/2077-daily) | 2077 Daily — Dispatches from the Future News Community | [🔗 Website](https://2077.rxcloud.group) |
 
-#### 🤖 AI Research & Infra
+</details>
+
+### AI Infra
+
+| Project | Description | Link | Stars |
+|:---|:---|:---:|:---:|
+| [ikun-llm](https://github.com/ikun-llm) | LLM Training from Scratch — Tokenizer · Pretrain · SFT · DPO · GRPO · Reasoning · MoE · VLM · Distill · Deploy | [GitHub](https://github.com/ikun-llm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ikun-llm/ikun-2.5B?style=social) |
+| [RAG Learning Platform](https://github.com/kevinten-ai/rag-learning-platform) | RAG Retrieval-Augmented Generation Learning Platform | [🔗 Website](https://rag.rxcloud.group) | — |
+
+<details>
+<summary><b>More AI Infra Projects</b> (Click to expand)</summary>
+
+#### 🔌 MCP Servers
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| [RAG Learning Platform](https://github.com/kevinten-ai/rag-learning-platform) | RAG Retrieval-Augmented Generation Learning Platform | [🔗 Website](https://rag.rxcloud.group) |
+| [MCP Video Gen](https://github.com/kevinten-ai/mcp-video-gen) | Multi-provider AI Video/Speech/Music MCP Server | [GitHub](https://github.com/kevinten-ai/mcp-video-gen) |
+| [MCP 3D Gen](https://github.com/kevinten-ai/mcp-3d-gen) | Multi-provider AI 3D Model Generation MCP Server | [GitHub](https://github.com/kevinten-ai/mcp-3d-gen) |
+| [MCP Image Gen](https://github.com/kevinten-ai/mcp-image-gen) | AI Image Generation MCP Server (Google Gemini) | [GitHub](https://github.com/kevinten-ai/mcp-image-gen) |
+| [MCP FFmpeg](https://github.com/kevinten-ai/mcp-ffmpeg) | FFmpeg Video/Audio Editing Tools via MCP, 30+ Tools | [GitHub](https://github.com/kevinten-ai/mcp-ffmpeg) |
+| [MCP Content Styles](https://github.com/kevinten-ai/mcp-content-styles) | Platform-specific Content Creation MCP Server | [GitHub](https://github.com/kevinten-ai/mcp-content-styles) |
+
+#### 🤖 Research
+
+| Project | Description | Link |
+|:---|:---|:---:|
 | [Browser Use Hotel](https://github.com/kevinten-ai/browser-use-hotel) | Browser-Use AI Agent for Hotel Scenarios | [🔗 Website](https://hotel.rxcloud.group) |
 | [Mini DeepResearch](https://github.com/kevinten-ai/mini-deepresearch-agent) | Mini Deep Research Agent | [🔗 Website](https://deepresearch.rxcloud.group) |
 
@@ -153,24 +174,12 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 | [YuanJie AI Group](https://github.com/yuanjie-ai-group) | YuanJie AI — AI Technology & Application Innovation | [🔗 Website](https://yuanjie.rxcloud.group) | — |
 
 <details>
-<summary><b>More</b> (Click to expand)</summary>
-
-#### 🎮 Creative & Games
+<summary><b>More Creative Projects</b> (Click to expand)</summary>
 
 | Project | Description | Link |
 |:---|:---|:---:|
 | [Fish Game](https://github.com/ava-agent/fish-agent) | Pixel-art Fishing Simulator Game | [🔗 Website](https://fish.rxcloud.group) |
 | [AI Ideas](https://github.com/ava-agent/ai-ideas) | AI Creative Ideas Collection & Experiments | [GitHub](https://github.com/ava-agent/ai-ideas) |
-
-#### 🔌 MCP Generators
-
-| Project | Description | Link |
-|:---|:---|:---:|
-| [MCP Video Gen](https://github.com/kevinten-ai/mcp-video-gen) | Multi-provider AI Video/Speech/Music MCP Server | [GitHub](https://github.com/kevinten-ai/mcp-video-gen) |
-| [MCP 3D Gen](https://github.com/kevinten-ai/mcp-3d-gen) | Multi-provider AI 3D Model Generation MCP Server | [GitHub](https://github.com/kevinten-ai/mcp-3d-gen) |
-| [MCP Image Gen](https://github.com/kevinten-ai/mcp-image-gen) | AI Image Generation MCP Server (Google Gemini) | [GitHub](https://github.com/kevinten-ai/mcp-image-gen) |
-| [MCP FFmpeg](https://github.com/kevinten-ai/mcp-ffmpeg) | FFmpeg Video/Audio Editing Tools via MCP, 30+ Tools | [GitHub](https://github.com/kevinten-ai/mcp-ffmpeg) |
-| [MCP Content Styles](https://github.com/kevinten-ai/mcp-content-styles) | Platform-specific Content Creation MCP Server | [GitHub](https://github.com/kevinten-ai/mcp-content-styles) |
 
 </details>
 
