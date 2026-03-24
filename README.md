@@ -134,7 +134,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
-| [ikun-llm](https://github.com/ikun-llm) | LLM Training from Scratch — Tokenizer · Pretrain · SFT · DPO · GRPO · Reasoning · MoE · VLM · Distill · Deploy | [GitHub](https://github.com/ikun-llm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ikun-llm/ikun-2.5B?style=social) |
+| [ikun-llm](https://github.com/ikun-llm) | LLM Training from Scratch — Full pipeline, 10 repos | [GitHub](https://github.com/ikun-llm/ikun-2.5B) | ![GitHub Repo stars](https://img.shields.io/github/stars/ikun-llm/ikun-2.5B?style=social) |
 | [RAG Learning Platform](https://github.com/kevinten-ai/rag-learning-platform) | RAG Retrieval-Augmented Generation Learning Platform | [🔗 Website](https://rag.rxcloud.group) | — |
 
 <details>
