@@ -171,7 +171,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
 | [Compiling the Dao](https://github.com/kevinten-ai/Compiling-the-Dao) | Open-source Xianxia Novel — Where Cultivation is Programming | [🔗 Website](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
-| [YuanJie AI Group](https://github.com/yuanjie-ai-group) | YuanJie AI — AI Technology & Application Innovation | [🔗 Website](https://yuanjie.rxcloud.group) | — |
+| [AI Ideas](https://github.com/ava-agent/ai-ideas) | AI Creative Ideas Collection & Experiments | [GitHub](https://github.com/ava-agent/ai-ideas) | — |
 
 <details>
 <summary><b>More Creative Projects</b> (Click to expand)</summary>
@@ -179,7 +179,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 | Project | Description | Link |
 |:---|:---|:---:|
 | [Fish Game](https://github.com/ava-agent/fish-agent) | Pixel-art Fishing Simulator Game | [🔗 Website](https://fish.rxcloud.group) |
-| [AI Ideas](https://github.com/ava-agent/ai-ideas) | AI Creative Ideas Collection & Experiments | [GitHub](https://github.com/ava-agent/ai-ideas) |
+| [YuanJie AI Group](https://github.com/yuanjie-ai-group) | YuanJie AI — AI Technology & Application Innovation | [🔗 Website](https://yuanjie.rxcloud.group) |
 
 </details>
 
