@@ -9,12 +9,24 @@
 [![公众号](https://img.shields.io/badge/公众号-KevinTen-07C160?style=for-the-badge&logo=wechat)](https://kevinten.com/images/wechat.png)
 
 <details>
-<summary>社交链接</summary>
+<summary><b>更多平台</b></summary>
+
+<br>
+
+**技术 & 开源**
+
+[![DEV.to](https://img.shields.io/badge/DEV.to-kevinten10-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/kevinten10)
+[![Medium](https://img.shields.io/badge/Medium-@wshten-000000?style=flat-square&logo=medium)](https://medium.com/@wshten)
+[![掘金](https://img.shields.io/badge/掘金-KevinTen-1E80FF?style=flat-square)](https://juejin.cn/user/3350967171951912)
+[![CSDN](https://img.shields.io/badge/CSDN-KevinTen-FC5531?style=flat-square)](https://blog.csdn.net/wsh596823919)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-IKUN--LLM-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/IKUN-LLM)
+[![Product Hunt](https://img.shields.io/badge/Product_Hunt-@ten__wang-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@ten_wang)
+
+**社交**
 
 [![小红书](https://img.shields.io/badge/小红书-KevinTen-FF2442?style=flat-square)](https://www.xiaohongshu.com/user/profile/5beeb71fe4873800017463fa)
 [![知乎](https://img.shields.io/badge/知乎-KevinTen-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-shi-hao-93-9)
-[![DEV.to](https://img.shields.io/badge/DEV.to-kevinten10-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/kevinten10)
-[![CSDN](https://img.shields.io/badge/CSDN-KevinTen-FC5531?style=flat-square)](https://blog.csdn.net/wsh596823919)
+[![Bluesky](https://img.shields.io/badge/Bluesky-kevinten10-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/kevinten10.bsky.social)
 [![抖音](https://img.shields.io/badge/抖音-KevinTen-000000?style=flat-square&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAvJHfd8N6myG3RyTR480KNC3J0bqmXwd_263-MZksxzU?from_tab_name=main)
 [![TikTok](https://img.shields.io/badge/TikTok-@kevinten1024-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@kevinten1024)
 [![Moltbook](https://img.shields.io/badge/Moltbook-LuckyPuppy-FF6B35?style=flat-square)](https://www.moltbook.com/u/LuckyPuppy)
