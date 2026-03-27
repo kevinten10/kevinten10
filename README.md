@@ -171,7 +171,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
 | [Compiling the Dao](https://github.com/kevinten-ai/Compiling-the-Dao) | Open-source Xianxia Novel — Where Cultivation is Programming | [🔗 Website](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
-| [AI Ideas](https://github.com/ava-agent/ai-ideas) | AI Creative Ideas Collection & Experiments | [GitHub](https://github.com/ava-agent/ai-ideas) | — |
+| [AI Ideas](https://github.com/ava-agent/ai-ideas) | AI Creative Ideas Collection & Experiments | [GitHub](https://github.com/ava-agent/ai-ideas) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-ideas?style=social) |
 
 <details>
 <summary><b>More Creative Projects</b> (Click to expand)</summary>
