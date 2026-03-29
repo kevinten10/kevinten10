@@ -191,7 +191,7 @@
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
 | [Fish Game](https://github.com/ava-agent/fish-agent) | 钓鱼佬 — 像素风钓鱼模拟游戏 | [🔗 官网](https://fish.rxcloud.group) |
-| [AI Ideas](https://github.com/ava-agent/ai-ideas) | AI 创意收集与实验 | [GitHub](https://github.com/ava-agent/ai-ideas) |
+| [Awesome AI Ideas](https://github.com/ava-agent/awesome-ai-ideas) | AI 创意收集与实验 | [GitHub](https://github.com/ava-agent/awesome-ai-ideas) |
 
 </details>
 
