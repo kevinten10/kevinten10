@@ -39,6 +39,19 @@
 
 ---
 
+## ⚡ AI Coding 实战强度：30 天 587 亿 Token · $78K
+
+<div align="center">
+
+**一个人，从写代码到调度 50 个 Agent。**<br>
+**一个月用量 ≈ GPT-3 训练语料的 1/5。**
+
+![Tokens](https://img.shields.io/badge/Tokens_/_30_天-587_亿-FF6B35?style=for-the-badge)
+![API 等价](https://img.shields.io/badge/API_刊例等价_/_30_天-%2478K-00CED1?style=for-the-badge)
+![Agents](https://img.shields.io/badge/并行_Agent-峰值_50-8B5CF6?style=for-the-badge)
+
+</div>
+
 ## 🌟 开源贡献
 
 专注云原生分布式系统、多运行时架构，贡献于以下项目：
@@ -47,22 +60,6 @@
 [![Layotto](https://img.shields.io/badge/Layotto-Contributor-00D4AA?style=flat-square)](https://github.com/mosn/layotto)
 [![Dubbo](https://img.shields.io/badge/Dubbo-Contributor-F97316?style=flat-square)](https://github.com/apache/dubbo)
 [![ReactiveGroup](https://img.shields.io/badge/ReactiveGroup-Maintainer-8B5CF6?style=flat-square)](https://github.com/reactivegroup)
-
-## 🐙 OpenOctopus — 正在构建
-
-<div align="center">
-
-**Realm-native 生活 Agent 系统。按领域组织生活，将万物召唤为智能体。**
-
-[![GitHub](https://img.shields.io/github/stars/open-octopus/openoctopus?style=for-the-badge&logo=github&label=Stars)](https://github.com/open-octopus/openoctopus)
-[![Website](https://img.shields.io/badge/官网-openoctopus.club-00CED1?style=for-the-badge)](https://openoctopus.club)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/open-octopus/openoctopus)
-
-`Realm Matrix` · `Summon` · `Cross-Realm Intelligence` · `Agent Teams` · `RealmHub` · `Local-first`
-
-</div>
-
-> 像章鱼一样，每条触手拥有独立的神经中枢自主运作，而中央大脑协调一切。将生活中的任何对象——宠物、家人、爱车——召唤为有记忆、有性格、会主动行动的 AI Agent。
 
 ## 📦 代表项目
 
@@ -89,6 +86,7 @@
 
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
+| [OpenOctopus](https://github.com/open-octopus/openoctopus) | Realm-native 生活 Agent 系统，将万物召唤为智能体 | [🔗 官网](https://openoctopus.club) | ![GitHub Repo stars](https://img.shields.io/github/stars/open-octopus/openoctopus?style=social) |
 | [AI Tools](https://github.com/ava-agent/ai-tools) | AI 开发工具选型指南，30+ 工具评测 | [🔗 官网](https://aitools.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
 | [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + 元宇宙旅游平台（**Hackathon 决赛**） | [🔗 官网](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
 | [Trip AVA](https://github.com/ava-agent/trip-ava) | AI 数字人旅行向导（**Hackathon 铜奖**） | [GitHub](https://github.com/ava-agent/trip-ava) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |

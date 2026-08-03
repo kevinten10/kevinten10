@@ -39,6 +39,19 @@
 
 ---
 
+## ⚡ AI Coding at Scale: 58.7B Tokens · $78K in 30 Days
+
+<div align="center">
+
+**From writing code to dispatching 50 agents — solo.**<br>
+**One month of my usage ≈ 1/5 of GPT-3's training corpus.**
+
+![Tokens](https://img.shields.io/badge/Tokens_/_30_days-58.7B-FF6B35?style=for-the-badge)
+![API Equivalent](https://img.shields.io/badge/API_Equivalent_/_30_days-%2478K-00CED1?style=for-the-badge)
+![Agents](https://img.shields.io/badge/Parallel_Agents-up_to_50-8B5CF6?style=for-the-badge)
+
+</div>
+
 ## 🌟 Open Source Contributions
 
 Focused on cloud-native distributed systems and multi-runtime architecture. Contributed to:
@@ -47,22 +60,6 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 [![Layotto](https://img.shields.io/badge/Layotto-Contributor-00D4AA?style=flat-square)](https://github.com/mosn/layotto)
 [![Dubbo](https://img.shields.io/badge/Dubbo-Contributor-F97316?style=flat-square)](https://github.com/apache/dubbo)
 [![ReactiveGroup](https://img.shields.io/badge/ReactiveGroup-Maintainer-8B5CF6?style=flat-square)](https://github.com/reactivegroup)
-
-## 🐙 OpenOctopus — What I'm Building
-
-<div align="center">
-
-**Realm-native life agent system. Organize life by realms. Summon anything into a living agent.**
-
-[![GitHub](https://img.shields.io/github/stars/open-octopus/openoctopus?style=for-the-badge&logo=github&label=Stars)](https://github.com/open-octopus/openoctopus)
-[![Website](https://img.shields.io/badge/Website-openoctopus.club-00CED1?style=for-the-badge)](https://openoctopus.club)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/open-octopus/openoctopus)
-
-`Realm Matrix` · `Summon` · `Cross-Realm Intelligence` · `Agent Teams` · `RealmHub` · `Local-first`
-
-</div>
-
-> Like an octopus, each tentacle has its own nerve center and acts autonomously, while the central brain coordinates everything. Turn any real-world object — your pet, your mom, your car — into a living AI agent with memory, personality, and proactive behavior.
 
 ## 📦 Featured Projects
 
@@ -89,6 +86,7 @@ Focused on cloud-native distributed systems and multi-runtime architecture. Cont
 
 | Project | Description | Link | Stars |
 |:---|:---|:---:|:---:|
+| [OpenOctopus](https://github.com/open-octopus/openoctopus) | Realm-native life agent system — summon anything into a living agent | [🔗 Website](https://openoctopus.club) | ![GitHub Repo stars](https://img.shields.io/github/stars/open-octopus/openoctopus?style=social) |
 | [AI Tools](https://github.com/ava-agent/ai-tools) | AI Dev Tools Selection Guide, 30+ tools SWOT analysis | [🔗 Website](https://aitools.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
 | [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + Metaverse Tourism Platform (**Hackathon Finalist**) | [🔗 Website](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
 | [Trip AVA](https://github.com/ava-agent/trip-ava) | AI Digital Human Travel Guide (**Hackathon Bronze**) | [GitHub](https://github.com/ava-agent/trip-ava) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
