@@ -2,7 +2,7 @@
 
 # Kevin Ten
 
-**AI-Native Builder · 软件架构师 · Open Source Contributor**
+**AI-Native Builder · 用 50 个 Agent 写代码 · Open Source Contributor**
 
 [![Website](https://img.shields.io/badge/Website-kevinten.com-blue?style=for-the-badge)](https://kevinten.com/)
 [![X](https://img.shields.io/badge/X-@kevinten1024-000000?style=for-the-badge&logo=x)](https://x.com/kevinten1024)
@@ -46,8 +46,8 @@
 **一个人，从写代码到调度 50 个 Agent。**<br>
 **一个月用量 ≈ GPT-3 训练语料的 1/5。**
 
-![Tokens](https://img.shields.io/badge/Tokens_/_30_天-587_亿-FF6B35?style=for-the-badge)
-![API 等价](https://img.shields.io/badge/API_刊例等价_/_30_天-%2478K-00CED1?style=for-the-badge)
+[![Tokens](https://img.shields.io/badge/Tokens_/_30_天-587_亿-FF6B35?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/5beeb71fe4873800017463fa)
+[![API 等价](https://img.shields.io/badge/API_刊例等价_/_30_天-%2478K-00CED1?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/5beeb71fe4873800017463fa)
 ![Agents](https://img.shields.io/badge/并行_Agent-峰值_50-8B5CF6?style=for-the-badge)
 
 </div>
@@ -67,90 +67,30 @@
 
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
-| [Capa-Java](https://github.com/capa-cloud/capa-java) | 混合云多运行时 SDK（一次编写，随处运行） | [🔗 官网](https://capa.rxcloud.group/) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-java?style=social) |
 | [Capa-BFF](https://github.com/capa-cloud/capa-bff) | 零成本 BFF 解决方案（**Hackathon 金奖**） | [GitHub](https://github.com/capa-cloud/capa-bff) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-bff?style=social) |
 | [VRML](https://github.com/project-vrml/vrml) | 应用运行时高级抽象 API 库 | [GitHub](https://github.com/project-vrml/vrml) | ![GitHub Repo stars](https://img.shields.io/github/stars/project-vrml/vrml?style=social) |
-| [Reactive Group](https://github.com/reactivegroup/docs) | Reactive 编程社区与文档 | [GitHub](https://github.com/reactivegroup/docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/reactivegroup/docs?style=social) |
-
-<details>
-<summary><b>更多项目</b>（点击展开）</summary>
-
-- **[LifeCat](https://github.com/lifecat-stack/Lifecat)** - 智能相册系统（全栈 Web + 移动端） · [GitHub](https://github.com/lifecat-stack/Lifecat)
-- **[Aditum](https://github.com/aditum-stack/Aditum)** - 社区门禁大数据分析系统 · [GitHub](https://github.com/aditum-stack/Aditum)
-- **[Air](https://github.com/air-stack/Air)** - 大气监测系统（物联网） · [GitHub](https://github.com/air-stack/Air)
-- **[Papers](https://github.com/kevinten10/Papers)** - 技术论文与研究笔记 · [🔗 官网](https://paper.rxcloud.group)
-
-</details>
+| [Capa-Java](https://github.com/capa-cloud/capa-java) | 混合云多运行时 SDK（一次编写，随处运行） | [🔗 官网](https://capa.rxcloud.group/) | ![GitHub Repo stars](https://img.shields.io/github/stars/capa-cloud/capa-java?style=social) |
 
 ### AI Agent 应用
 
-| 项目 | 简介 | 链接 | Stars |
-|:---|:---|:---:|:---:|
-| [OpenOctopus](https://github.com/open-octopus/openoctopus) | Realm-native 生活 Agent 系统，将万物召唤为智能体 | [🔗 官网](https://openoctopus.club) | ![GitHub Repo stars](https://img.shields.io/github/stars/open-octopus/openoctopus?style=social) |
-| [AI Tools](https://github.com/ava-agent/ai-tools) | AI 开发工具选型指南，30+ 工具评测 | [🔗 官网](https://aitools.rxcloud.group) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/ai-tools?style=social) |
-| [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + 元宇宙旅游平台（**Hackathon 决赛**） | [🔗 官网](https://trip-meta.github.io/TripMeta/site) | ![GitHub Repo stars](https://img.shields.io/github/stars/trip-meta/TripMeta?style=social) |
-| [Trip AVA](https://github.com/ava-agent/trip-ava) | AI 数字人旅行向导（**Hackathon 铜奖**） | [GitHub](https://github.com/ava-agent/trip-ava) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/trip-ava?style=social) |
-
-<details>
-<summary><b>更多 AI 项目</b>（点击展开）</summary>
-
-#### 🌏 旅行 & 户外
-
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
-| [Trip Agent](https://github.com/ava-agent/trip-agent) | Multi-Agent 智能旅行规划 | [🔗 官网](https://trip.rxcloud.group) |
-| [ADV Agent](https://github.com/ava-agent/adv-agent) | ADV 摩托骑行社区 + AI 路线推荐 | [🔗 社区](https://adv.rxcloud.group) |
-| [Vietnam Agent](https://github.com/ava-agent/vietnam-agent) | 一站式越南旅行指南 App | [GitHub](https://github.com/ava-agent/vietnam-agent) |
+| [AI Tools](https://github.com/ava-agent/ai-tools) | AI 开发工具选型指南，30+ 工具评测 | [🔗 官网](https://aitools.rxcloud.group) |
+| [Trip Meta](https://github.com/trip-meta/TripMeta) | AI + VR + 元宇宙旅游平台（**Hackathon 决赛**） | [🔗 官网](https://trip-meta.github.io/TripMeta/site) |
+| [Trip AVA](https://github.com/ava-agent/trip-ava) | AI 数字人旅行向导（**Hackathon 铜奖**） | [GitHub](https://github.com/ava-agent/trip-ava) |
+| [OpenOctopus](https://github.com/open-octopus/openoctopus) | Realm-native 生活 Agent 系统，将万物召唤为智能体 | [🔗 官网](https://openoctopus.club) |
 
-#### 🏠 生活 & 社交
-
-| 项目 | 简介 | 链接 |
-|:---|:---|:---:|
-| [Meeting Agent](https://github.com/ava-agent/meeting-agent) | AI 会议策划 — 议程、演讲稿、海报、伴手礼一键生成 | [🔗 官网](https://meeting.rxcloud.group) |
-| [SPA Agent](https://github.com/ava-agent/spa-agent) | 按摩 SPA 知识大全 · 消费指南 · AI 顾问 | [🔗 官网](https://spa.rxcloud.group) |
-| [Dog Agent](https://github.com/ava-agent/dog-agent) | PawPal 宠友圈 — 抖音风格 + Tinder 式宠物社交 | [🔗 官网](https://pet.rxcloud.group) |
-| [Maichong](https://github.com/ava-agent/maichong) | 脉冲 — AI 亲密圈生活节奏协调助手 | [🔗 官网](https://maichong.rxcloud.group) |
-| [Health Agent](https://github.com/ava-agent/health-agent) | AI 孕检指南助手 | [🔗 官网](https://health.rxcloud.group) |
-| [Name Agent](https://github.com/ava-agent/name-agent) | GLM-4 AI 起名 · 卡片式交互 · 探探式滑动选名 | [🔗 官网](https://name.rxcloud.group) |
-| [Awesome Spring Festival](https://github.com/kevinten10/awesome-springfeistval) | 春节 AI 助手 | [🔗 官网](https://spring.rxcloud.group) |
-
-#### 📚 学习 & 商业
-
-| 项目 | 简介 | 链接 |
-|:---|:---|:---:|
-| [English Agent](https://github.com/ava-agent/english-agent) | 沉浸式旅行场景 AI 英语 · 8 目的地 · 3 AI 角色 · FSRS | [🔗 官网](https://english.rxcloud.group) |
-| [S.B.](https://github.com/ava-agent/S.B.) | Smart Brain — AI 思维陪练 | [🔗 官网](https://sb.rxcloud.group/) |
-| [ClawX](https://github.com/ava-agent/money-agent) | AI 赚钱完全指南 · 33 种方法 · 5 大商业模式 | [🔗 官网](https://money.rxcloud.group) |
-
-#### ⚖️ 实用 & 维权
-
-| 项目 | 简介 | 链接 |
-|:---|:---|:---:|
-| [Law Agent](https://github.com/ava-agent/law-agent) | AI 消费者维权智能咨询 | [🔗 官网](https://law.rxcloud.group) |
-| [Argue Agent](https://github.com/ava-agent/argue-agent) | 实时辩论助手 · 自动验证对方论点 | [🔗 官网](https://argue.rxcloud.group) |
-
-#### 🎨 内容 & 媒体
-
-| 项目 | 简介 | 链接 |
-|:---|:---|:---:|
-| [Video Agent](https://github.com/ava-agent/vedio-agent) | AI 多媒体工具百科 · 61+ 款工具对比与 MCP 集成 | [🔗 官网](https://video.rxcloud.group/) |
-| [3D Agent](https://github.com/ava-agent/3d-agent) | 一站式 3D 模型生成助手 | [🔗 官网](https://3d.rxcloud.group/) |
-| [Promotion Agent](https://github.com/ava-agent/promotion-agent) | 社交媒体全平台推广指南 · 11+ 平台 | [🔗 官网](https://ava-agent.github.io/promotion-agent/) |
-| [2077 日报](https://github.com/kevinten-ai/2077-daily) | 2077 日报 — 来自未来的疯狂新闻社区 | [🔗 官网](https://2077.rxcloud.group) |
-
-</details>
+👉 [另外 16 个 AI Agent 实验 → ava-agent](https://github.com/ava-agent) —— 旅行、生活、学习、实用、内容
 
 ### AI Infra
 
-| 项目 | 简介 | 链接 | Stars |
-|:---|:---|:---:|:---:|
-| [ikun-llm](https://github.com/ikun-llm) | 从零训练大模型 — 全链路实践，10 个项目 | [ikun-2.5B](https://github.com/ikun-llm/ikun-2.5B) | ![GitHub Repo stars](https://img.shields.io/github/stars/ikun-llm/ikun-2.5B?style=social) |
-| [RAG Learning Platform](https://github.com/kevinten-ai/rag-learning-platform) | RAG 检索增强生成学习平台 | [🔗 官网](https://rag.rxcloud.group) | — |
+| 项目 | 简介 | 链接 |
+|:---|:---|:---:|
+| [ikun-llm](https://github.com/ikun-llm) | 从零训练大模型 — 全链路实践，10 个项目 | [ikun-2.5B](https://github.com/ikun-llm/ikun-2.5B) |
+| [RAG Learning Platform](https://github.com/kevinten-ai/rag-learning-platform) | RAG 检索增强生成学习平台 | [🔗 官网](https://rag.rxcloud.group) |
 
 <details>
-<summary><b>更多 AI Infra 项目</b>（点击展开）</summary>
-
-#### 🔌 MCP 服务器
+<summary><b>MCP 服务器 & CLI</b>（点击展开）</summary>
 
 | 项目 | 简介 | 链接 |
 |:---|:---|:---:|
@@ -159,20 +99,7 @@
 | [MCP Image Gen](https://github.com/kevinten-ai/mcp-image-gen) | AI 图像生成 MCP 服务器（Google Gemini） | [GitHub](https://github.com/kevinten-ai/mcp-image-gen) |
 | [MCP FFmpeg](https://github.com/kevinten-ai/mcp-ffmpeg) | FFmpeg 视频/音频编辑 MCP 工具，30+ 工具 | [GitHub](https://github.com/kevinten-ai/mcp-ffmpeg) |
 | [MCP Content Styles](https://github.com/kevinten-ai/mcp-content-styles) | 一站式多平台内容创作 MCP 服务 | [GitHub](https://github.com/kevinten-ai/mcp-content-styles) |
-
-#### 🤖 研究
-
-| 项目 | 简介 | 链接 |
-|:---|:---|:---:|
-| [Browser Use Hotel](https://github.com/kevinten-ai/browser-use-hotel) | Browser-Use AI Agent 酒店场景实践 | [🔗 官网](https://hotel.rxcloud.group) |
-| [Mini DeepResearch](https://github.com/kevinten-ai/mini-deepresearch-agent) | 迷你深度研究 Agent | [🔗 官网](https://deepresearch.rxcloud.group) |
-
-#### 🔧 CLI & 工具
-
-| 项目 | 简介 | 链接 |
-|:---|:---|:---:|
 | [ccuse](https://github.com/kevinten-ai/ccuse) | Claude Code 配置文件切换器 CLI | [GitHub](https://github.com/kevinten-ai/ccuse) |
-| [PUA CLI](https://github.com/ava-agent/pua-cli) | 趣味 AI CLI 工具 | [🔗 官网](https://pua.rxcloud.group) |
 
 </details>
 
@@ -180,18 +107,8 @@
 
 | 项目 | 简介 | 链接 | Stars |
 |:---|:---|:---:|:---:|
-| [编神纪](https://github.com/kevinten-ai/Compiling-the-Dao) | 开源玄幻小说 — 修仙即编程 · 天道源码 · 算法斗技 | [🔗 官网](https://kevinten-ai.github.io/Compiling-the-Dao/) | ![GitHub Repo stars](https://img.shields.io/github/stars/kevinten-ai/Compiling-the-Dao?style=social) |
-| [元界 AI Group](https://github.com/yuanjie-ai-group) | 元界 AI — 专注于人工智能技术与应用创新 | [🔗 官网](https://yuanjie.rxcloud.group) | — |
-
-<details>
-<summary><b>更多创意项目</b>（点击展开）</summary>
-
-| 项目 | 简介 | 链接 |
-|:---|:---|:---:|
-| [Fish Game](https://github.com/ava-agent/fish-agent) | 钓鱼佬 — 像素风钓鱼模拟游戏 | [🔗 官网](https://fish.rxcloud.group) |
-| [Awesome AI Ideas](https://github.com/ava-agent/awesome-ai-ideas) | AI 创意收集与实验 | [GitHub](https://github.com/ava-agent/awesome-ai-ideas) |
-
-</details>
+| [Awesome AI Ideas](https://github.com/ava-agent/awesome-ai-ideas) | AI 创意收集与实验 | [GitHub](https://github.com/ava-agent/awesome-ai-ideas) | ![GitHub Repo stars](https://img.shields.io/github/stars/ava-agent/awesome-ai-ideas?style=social) |
+| [编神纪](https://github.com/kevinten-ai/Compiling-the-Dao) | 开源玄幻小说 — 修仙即编程 · 天道源码 · 算法斗技 | [🔗 官网](https://kevinten-ai.github.io/Compiling-the-Dao/) | — |
 
 
 <div align="center">
