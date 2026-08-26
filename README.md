@@ -26,7 +26,6 @@
 
 [![小红书](https://img.shields.io/badge/小红书-KevinTen-FF2442?style=flat-square)](https://www.xiaohongshu.com/user/profile/5beeb71fe4873800017463fa)
 [![知乎](https://img.shields.io/badge/知乎-KevinTen-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/wang-shi-hao-93-9)
-[![抖音](https://img.shields.io/badge/抖音-KevinTen-000000?style=flat-square&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAvJHfd8N6myG3RyTR480KNC3J0bqmXwd_263-MZksxzU?from_tab_name=main)
 [![TikTok](https://img.shields.io/badge/TikTok-@kevinten1024-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@kevinten1024)
 [![Moltbook](https://img.shields.io/badge/Moltbook-LuckyPuppy-FF6B35?style=flat-square)](https://www.moltbook.com/u/LuckyPuppy)
 
